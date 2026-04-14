@@ -1,0 +1,181 @@
+{
+  "lastUpdated": "2026-04-14T21:50:40",
+  "cars": [
+    {
+      "vin": "VF3M45GFRKS360594",
+      "model": "3008",
+      "fra": "VAM OMLÆSNING",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-17",
+      "trackTrace": "eQcOwSIY"
+    },
+    {
+      "vin": "W0VZCBHZXJS030311",
+      "model": "GRANDLAND X",
+      "fra": "VAM OMLÆSNING",
+      "klardato": "2026-04-15",
+      "leveringsdato": "2026-04-15",
+      "trackTrace": "Gw4wCUOE"
+    },
+    {
+      "vin": "WAUZZZ8U1GR111698",
+      "model": "Q3",
+      "fra": "VAM OMLÆSNING",
+      "klardato": "2026-04-15",
+      "leveringsdato": "2026-04-15",
+      "trackTrace": "00Y6cwoQ"
+    },
+    {
+      "vin": "VF3MCBHZWHS098746",
+      "model": "3008",
+      "fra": "BRA OMLÆSNING",
+      "klardato": "2026-04-15",
+      "leveringsdato": "2026-04-15",
+      "trackTrace": "sqcSO8mS"
+    },
+    {
+      "vin": "WF0YXXTTGYKY70230",
+      "model": "TRANSIT CUSTOM-L2H2",
+      "fra": "LINDHOLM BILER VIBORG",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "eoKIC4E0"
+    },
+    {
+      "vin": "SJNFAAJ11U2611587",
+      "model": "QASHQAI",
+      "fra": "PEDERSEN & NIELSEN A/S RISSKOV",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "MWk2k0Wi"
+    },
+    {
+      "vin": "JMZKF6W7A00786006",
+      "model": "CX-5",
+      "fra": "AI KØGE",
+      "klardato": "2026-04-13",
+      "leveringsdato": "2026-04-17",
+      "trackTrace": "Oimw4GW0"
+    },
+    {
+      "vin": "VF3MRHNSJJS400553",
+      "model": "3008",
+      "fra": "SK SØBORG DYNAMOVEJ",
+      "klardato": "2026-04-13",
+      "leveringsdato": "2026-04-17",
+      "trackTrace": "yGcG2w4U"
+    },
+    {
+      "vin": "VF3MJAHXHGS331936",
+      "model": "3008",
+      "fra": "OP KOKKEDAL",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-20",
+      "trackTrace": "SeMGuSqi"
+    },
+    {
+      "vin": "SJNFCAJ11U1651460",
+      "model": "QASHQAI",
+      "fra": "RIN",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-20",
+      "trackTrace": "egu6IGQq"
+    },
+    {
+      "vin": "VF12R031A60392732",
+      "model": "CAPTUR",
+      "fra": "VAM",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "CGM6suCE"
+    },
+    {
+      "vin": "WDD2050041R274749",
+      "model": "C-KLASSE",
+      "fra": "VW RINGSTED",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-20",
+      "trackTrace": "WgAEyyaE"
+    },
+    {
+      "vin": "SJNFEAJ11U2388600",
+      "model": "QASHQAI",
+      "fra": "ANDERSEN & MARTINI A/S",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-20",
+      "trackTrace": "g4iGMCqw"
+    },
+    {
+      "vin": "WVWZZZ7NZGV222479",
+      "model": "SHARAN",
+      "fra": "LINDEROTH A/S",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "ASaeeU20"
+    },
+    {
+      "vin": "VF1RFD00656865832",
+      "model": "TALISMAN",
+      "fra": "AUTOROLA FREDERICIA",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-17",
+      "trackTrace": "m8WmQmEo"
+    },
+    {
+      "vin": "SJNFAAJ11UZ040139",
+      "model": "QASHQAI",
+      "fra": "RIN OMLÆSNING",
+      "klardato": "2026-04-15",
+      "leveringsdato": "2026-04-17",
+      "trackTrace": "maA8ia6g"
+    },
+    {
+      "vin": "WAUZZZ8K3DA036057",
+      "model": "A4",
+      "fra": "SEMLER AP-M OPSAMLING",
+      "klardato": "2026-04-15",
+      "leveringsdato": "2026-04-17",
+      "trackTrace": "8csOY2am"
+    },
+    {
+      "vin": "W0LBE6EG3GG120815",
+      "model": "ASTRA",
+      "fra": "VAM OMLÆSNING",
+      "klardato": "2026-04-13",
+      "leveringsdato": "2026-04-15",
+      "trackTrace": "MiO0O6mM"
+    },
+    {
+      "vin": "JMZDK6W7A01411018",
+      "model": "CX-3",
+      "fra": "VAM OMLÆSNING",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "ueYgqC4M"
+    },
+    {
+      "vin": "WF0YXXTTGYKJ71440",
+      "model": "TRANSIT CUSTOM-L2H1",
+      "fra": "VAM OMLÆSNING",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "E2Qa0e4e"
+    },
+    {
+      "vin": "VF3MRHNSJJS386560",
+      "model": "3008",
+      "fra": "ZODIAK OMLÆSNING",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "0uCay28g"
+    },
+    {
+      "vin": "TMAJ3815GHJ390852",
+      "model": "TUCSON",
+      "fra": "VAM OMLÆSNING",
+      "klardato": "2026-04-14",
+      "leveringsdato": "2026-04-16",
+      "trackTrace": "cseYEaAq"
+    }
+  ]
+}

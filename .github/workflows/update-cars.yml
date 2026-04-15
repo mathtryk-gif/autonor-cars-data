@@ -1,0 +1,37 @@
+name: Update cars.json from Autonor.xlsx
+
+on:
+  push:
+    paths:
+      - "data/Autonor.xlsx"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install openpyxl
+
+      - name: Parse Excel → cars.json
+        run: python scripts/parse_autonor.py data/Autonor.xlsx cars.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "autonor-bot"
+          git config user.email "bot@autonor.dk"
+          git add cars.json
+          if git diff --cached --quiet; then
+            echo "Ingen ændringer — springer commit over."
+          else
+            git commit -m "chore: cars.json opdateret ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi

@@ -24,7 +24,10 @@ jobs:
       - name: Parse Excel → cars.json
         run: python scripts/parse_autonor.py data/Autonor.xlsx cars.json
 
-      - name: Commit if changed
+      - name: Slet Autonor.xlsx (så næste Zapier-push altid er et nyt create)
+        run: git rm data/Autonor.xlsx
+
+      - name: Commit cars.json + slettet xlsx
         run: |
           git config user.name  "autonor-bot"
           git config user.email "bot@autonor.dk"

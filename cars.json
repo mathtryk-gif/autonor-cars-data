@@ -1,15 +1,23 @@
 {
-  "lastUpdated": "2026-04-20T21:22:54+00:00",
+  "lastUpdated": "2026-04-21T21:22:44+00:00",
   "source": "autologik-mail",
-  "count": 17,
+  "count": 21,
   "cars": [
     {
-      "vin": "WAUZZZF40GA053018",
-      "model": "A4",
-      "fra": "SØRBY AUTOCENTER",
+      "vin": "SJNFDAJ11U1839835",
+      "model": "QASHQAI",
+      "fra": "OMLÆSNING SOVER UDE",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-04-23",
-      "track": "6qCa8keM"
+      "track": "2S6Cgo6a"
+    },
+    {
+      "vin": "SJNFAAJ11U1500960",
+      "model": "QASHQAI",
+      "fra": "OMLÆSNING SOVER UDE",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-22",
+      "track": "AemqY264"
     },
     {
       "vin": "WVWZZZAUZHW565733",
@@ -18,14 +26,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-04-23",
       "track": "sKY0uW46"
-    },
-    {
-      "vin": "VF3MCBHZHHS149995",
-      "model": "3008",
-      "fra": "VW KBH S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-04-24",
-      "track": "m828GwKM"
     },
     {
       "vin": "TMBJG7NU6L2037650",
@@ -42,14 +42,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-04-22",
       "track": "MSYwmseG"
-    },
-    {
-      "vin": "ZFA24400007768936",
-      "model": "DUCATO L3H3",
-      "fra": "AUTOPROFF VEJLE",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-04-22",
-      "track": "Qeyqagoi"
     },
     {
       "vin": "JMZKEF91800500937",
@@ -76,22 +68,6 @@
       "track": "4GoOCOae"
     },
     {
-      "vin": "SJNFAAJ11U1500960",
-      "model": "QASHQAI",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-04-22",
-      "track": "AemqY264"
-    },
-    {
-      "vin": "YV1CT3056C1624949",
-      "model": "XC90",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-04-24",
-      "track": "u2kQ0eAs"
-    },
-    {
       "vin": "JMZKF6W1600685958",
       "model": "CX-5",
       "fra": "VAM OMLÆSNING",
@@ -102,10 +78,58 @@
     {
       "vin": "W0VZCBHZ1JS031217",
       "model": "GRANDLAND X",
-      "fra": "VAM OMLÆSNING",
+      "fra": "VW VEJLE 004",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-04-22",
       "track": "AOGSakQm"
+    },
+    {
+      "vin": "JMZKEC97600245595",
+      "model": "CX-5",
+      "fra": "VW VEJLE 004",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-22",
+      "track": "mg0OWGM4"
+    },
+    {
+      "vin": "WBAFB71040LX41906",
+      "model": "X5",
+      "fra": "M.P BILER KØGE NR. 87",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-27",
+      "track": "g2eoUy6g"
+    },
+    {
+      "vin": "VF3MCBHZHHS149995",
+      "model": "3008",
+      "fra": "VW KBH S",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-24",
+      "track": "m828GwKM"
+    },
+    {
+      "vin": "WVWZZZAUZJW094753",
+      "model": "GOLF",
+      "fra": "FO SLAGELSE",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-27",
+      "track": "yaiQGQM4"
+    },
+    {
+      "vin": "WF0RXXGCDRAA79750",
+      "model": "KUGA",
+      "fra": "EV DANMARK APS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-23",
+      "track": "mkWEcYws"
+    },
+    {
+      "vin": "YV1CT3056C1624949",
+      "model": "XC90",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-24",
+      "track": "u2kQ0eAs"
     },
     {
       "vin": "WVWZZZ3CZGE028228",
@@ -114,14 +138,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-04-22",
       "track": "guOu0iqg"
-    },
-    {
-      "vin": "JMZKEC97600245595",
-      "model": "CX-5",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-04-22",
-      "track": "mg0OWGM4"
     },
     {
       "vin": "VF1RJB00665046149",
@@ -138,6 +154,22 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-04-22",
       "track": "uQqMG6gU"
+    },
+    {
+      "vin": "ZFA24400007768936",
+      "model": "DUCATO L3H3",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-22",
+      "track": "Qeyqagoi"
+    },
+    {
+      "vin": "WAUZZZF40GA053018",
+      "model": "A4",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-04-23",
+      "track": "6qCa8keM"
     }
   ]
 }

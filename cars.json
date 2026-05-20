@@ -1,24 +1,8 @@
 {
-  "lastUpdated": "2026-05-19T21:23:37+00:00",
+  "lastUpdated": "2026-05-20T21:22:46+00:00",
   "source": "autologik-mail",
-  "count": 8,
+  "count": 7,
   "cars": [
-    {
-      "vin": "WVGZZZ1TZGW581603",
-      "model": "TOURAN",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-20",
-      "track": "iqaqCWuY"
-    },
-    {
-      "vin": "WDD2042011G231085",
-      "model": "C-KLASSE",
-      "fra": "VW KØGE",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-22",
-      "track": "MKIOusgO"
-    },
     {
       "vin": "WDD1760081J476467",
       "model": "A-KLASSE",
@@ -26,14 +10,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-05-21",
       "track": "qs6q6Q2s"
-    },
-    {
-      "vin": "WVGZZZ1TZEW085263",
-      "model": "TOURAN",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-22",
-      "track": "AiMcYc6K"
     },
     {
       "vin": "WDD2050041F102089",
@@ -44,20 +20,28 @@
       "track": "yKeQiWwy"
     },
     {
-      "vin": "YV1CT7146B1569622",
-      "model": "XC90",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-22",
-      "track": "G6GEais2"
-    },
-    {
       "vin": "TMBJJ7NPXH7043621",
       "model": "SUPERB",
-      "fra": "RIN OMLÆSNING",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-05-21",
       "track": "QG2i0Wi8"
+    },
+    {
+      "vin": "WVGZZZ1TZEW085263",
+      "model": "TOURAN",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-22",
+      "track": "AiMcYc6K"
+    },
+    {
+      "vin": "YV1CT7146B1569622",
+      "model": "XC90",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-22",
+      "track": "G6GEais2"
     },
     {
       "vin": "WBAZW61030L577110",
@@ -66,6 +50,14 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-05-22",
       "track": "2mOM6ysE"
+    },
+    {
+      "vin": "WDD2042011G231085",
+      "model": "C-KLASSE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-22",
+      "track": "MKIOusgO"
     }
   ]
 }

@@ -1,32 +1,8 @@
 {
-  "lastUpdated": "2026-05-20T21:22:46+00:00",
+  "lastUpdated": "2026-05-21T21:23:53+00:00",
   "source": "autologik-mail",
-  "count": 7,
+  "count": 9,
   "cars": [
-    {
-      "vin": "WDD1760081J476467",
-      "model": "A-KLASSE",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-21",
-      "track": "qs6q6Q2s"
-    },
-    {
-      "vin": "WDD2050041F102089",
-      "model": "C-KLASSE",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-20",
-      "track": "yKeQiWwy"
-    },
-    {
-      "vin": "TMBJJ7NPXH7043621",
-      "model": "SUPERB",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-21",
-      "track": "QG2i0Wi8"
-    },
     {
       "vin": "WVGZZZ1TZEW085263",
       "model": "TOURAN",
@@ -44,6 +20,14 @@
       "track": "G6GEais2"
     },
     {
+      "vin": "VR3ECYHYCJJ790131",
+      "model": "RIFTER",
+      "fra": "VAM",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-26",
+      "track": "ew2s48MA"
+    },
+    {
       "vin": "WBAZW61030L577110",
       "model": "X5",
       "fra": "VAM OMLÆSNING",
@@ -58,6 +42,38 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-05-22",
       "track": "MKIOusgO"
+    },
+    {
+      "vin": "VR3UDYHZRKJ857431",
+      "model": "2008",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "AeAKUEuE"
+    },
+    {
+      "vin": "JHMCU3530CC201008",
+      "model": "ACCORD",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-26",
+      "track": "msmmsKCq"
+    },
+    {
+      "vin": "WDD1179081N247135",
+      "model": "CLA-KLASSE",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "ECI0SM2O"
+    },
+    {
+      "vin": "VF12R031A58575264",
+      "model": "CAPTUR",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "IUEuMe6a"
     }
   ]
 }

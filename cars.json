@@ -1,47 +1,15 @@
 {
-  "lastUpdated": "2026-05-21T21:23:53+00:00",
+  "lastUpdated": "2026-05-24T21:24:36+00:00",
   "source": "autologik-mail",
-  "count": 9,
+  "count": 4,
   "cars": [
     {
-      "vin": "WVGZZZ1TZEW085263",
-      "model": "TOURAN",
+      "vin": "JHMCU3530CC201008",
+      "model": "ACCORD",
       "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-22",
-      "track": "AiMcYc6K"
-    },
-    {
-      "vin": "YV1CT7146B1569622",
-      "model": "XC90",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-22",
-      "track": "G6GEais2"
-    },
-    {
-      "vin": "VR3ECYHYCJJ790131",
-      "model": "RIFTER",
-      "fra": "VAM",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-05-26",
-      "track": "ew2s48MA"
-    },
-    {
-      "vin": "WBAZW61030L577110",
-      "model": "X5",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-22",
-      "track": "2mOM6ysE"
-    },
-    {
-      "vin": "WDD2042011G231085",
-      "model": "C-KLASSE",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-22",
-      "track": "MKIOusgO"
+      "track": "msmmsKCq"
     },
     {
       "vin": "VR3UDYHZRKJ857431",
@@ -50,14 +18,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-05-28",
       "track": "AeAKUEuE"
-    },
-    {
-      "vin": "JHMCU3530CC201008",
-      "model": "ACCORD",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-26",
-      "track": "msmmsKCq"
     },
     {
       "vin": "WDD1179081N247135",

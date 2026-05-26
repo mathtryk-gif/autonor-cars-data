@@ -1,32 +1,8 @@
 {
-  "lastUpdated": "2026-05-25T21:23:54+00:00",
+  "lastUpdated": "2026-05-26T21:23:24+00:00",
   "source": "autologik-mail",
-  "count": 4,
+  "count": 17,
   "cars": [
-    {
-      "vin": "JHMCU3530CC201008",
-      "model": "ACCORD",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-26",
-      "track": "msmmsKCq"
-    },
-    {
-      "vin": "VR3UDYHZRKJ857431",
-      "model": "2008",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-28",
-      "track": "AeAKUEuE"
-    },
-    {
-      "vin": "WDD1179081N247135",
-      "model": "CLA-KLASSE",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-05-28",
-      "track": "ECI0SM2O"
-    },
     {
       "vin": "VF12R031A58575264",
       "model": "CAPTUR",
@@ -34,6 +10,134 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-05-28",
       "track": "IUEuMe6a"
+    },
+    {
+      "vin": "VF1HJD20868100893",
+      "model": "DUSTER",
+      "fra": "UGGERHØJ BRØNDERSLEV",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "ICqAKaSY"
+    },
+    {
+      "vin": "TMBAJ9NX1MY009082",
+      "model": "OCTAVIA",
+      "fra": "EV DANMARK APS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "qa6kmQiI"
+    },
+    {
+      "vin": "WAUZZZGA0HA006934",
+      "model": "Q2",
+      "fra": "RØDKJÆR BILER APS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "AkUk886A"
+    },
+    {
+      "vin": "WAUZZZF32K1041579",
+      "model": "Q3",
+      "fra": "SK NYKF 569",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "o4qyKQWo"
+    },
+    {
+      "vin": "WAUZZZ8EX4A299737",
+      "model": "A4",
+      "fra": "GT BILER A/S",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "OyISCcCK"
+    },
+    {
+      "vin": "TMBJG7NPXH7521454",
+      "model": "SUPERB",
+      "fra": "BØTTCHER BILER",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "AmIcQyIC"
+    },
+    {
+      "vin": "VF3MJEHZRJS307415",
+      "model": "3008",
+      "fra": "BILHUSET LAURSEN A/S",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "wW0s48Ek"
+    },
+    {
+      "vin": "VF3MCYHZRKL070324",
+      "model": "5008",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "GMWGuqY6"
+    },
+    {
+      "vin": "WBAXB11090DV99998",
+      "model": "5-SERIE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "yC8MgG8S"
+    },
+    {
+      "vin": "VSSZZZ5FZH6505078",
+      "model": "ATECA",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-05-28",
+      "track": "g4YKooEQ"
+    },
+    {
+      "vin": "VSSZZZ5FZK6586433",
+      "model": "ATECA",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "kcw6gGuQ"
+    },
+    {
+      "vin": "WAUZZZ8K5FN022821",
+      "model": "A4",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "E8Yeg0kS"
+    },
+    {
+      "vin": "VF1RJB00866232799",
+      "model": "CAPTUR",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "W28YeUUa"
+    },
+    {
+      "vin": "JHMCU3550CC200668",
+      "model": "ACCORD",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "GqkMqkCi"
+    },
+    {
+      "vin": "VF1RFE00255762385",
+      "model": "KADJAR",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "o8CsMsie"
+    },
+    {
+      "vin": "TMBJG7NU8L2041411",
+      "model": "KAROQ",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-01",
+      "track": "2SsU8Iic"
     }
   ]
 }

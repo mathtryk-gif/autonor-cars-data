@@ -1,31 +1,47 @@
 {
-  "lastUpdated": "2026-06-02T21:24:01+00:00",
+  "lastUpdated": "2026-06-03T21:24:23+00:00",
   "source": "autologik-mail",
-  "count": 13,
+  "count": 19,
   "cars": [
     {
-      "vin": "SHSRE5850CU012267",
-      "model": "CR-V",
-      "fra": "BIL-FABRIKKEN APS",
+      "vin": "VF1RJB00265788614",
+      "model": "CAPTUR",
+      "fra": "SK EJBY",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-08",
+      "track": "GK8YuMCc"
+    },
+    {
+      "vin": "WBAFV310X0DP47994",
+      "model": "5-SERIE",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-06-03",
-      "track": "ccaq2QKS"
+      "track": "sYi4SMk0"
     },
     {
-      "vin": "VF3MJEHZRJS307415",
-      "model": "3008",
-      "fra": "VAM OMLÆSNING",
+      "vin": "WDD2042021F793084",
+      "model": "C-KLASSE",
+      "fra": "VAM",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-01",
-      "track": "wW0s48Ek"
+      "leveringsdato": "2026-06-08",
+      "track": "KqkGiGEs"
     },
     {
-      "vin": "SJNFAAJ11UZ055039",
-      "model": "QASHQAI",
-      "fra": "VAM OMLÆSNING",
+      "vin": "WVWZZZAUZHW321955",
+      "model": "GOLF",
+      "fra": "ME NRSUNDBY",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-02",
-      "track": "c4CYqIgY"
+      "leveringsdato": "2026-06-08",
+      "track": "mcaWooyO"
+    },
+    {
+      "vin": "WDD2040021A637791",
+      "model": "C-KLASSE",
+      "fra": "VW GLOSTRUP",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-04",
+      "track": "KWOcOywO"
     },
     {
       "vin": "U5YPK816HGL177365",
@@ -42,14 +58,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-06-04",
       "track": "Qc6isO2a"
-    },
-    {
-      "vin": "JMZKF6W1600689069",
-      "model": "CX-5",
-      "fra": "M.P BILER KØGE NR. 87",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-09",
-      "track": "wUEMWEuK"
     },
     {
       "vin": "VR3UDYHZRLJ736050",
@@ -76,12 +84,28 @@
       "track": "mGMEqkSM"
     },
     {
-      "vin": "WBAFV310X0DP47994",
-      "model": "5-SERIE",
-      "fra": "VAM OMLÆSNING",
+      "vin": "VF1R8700061978069",
+      "model": "CAPTUR",
+      "fra": "AV VEJLE",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-03",
-      "track": "sYi4SMk0"
+      "leveringsdato": "2026-06-08",
+      "track": "EceGi0Mg"
+    },
+    {
+      "vin": "WBAHT7100J5K68596",
+      "model": "X1",
+      "fra": "BILHUSET JYLLAND APS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-08",
+      "track": "IQQ4YM8M"
+    },
+    {
+      "vin": "JMZGL623801510451",
+      "model": "MAZDA6",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-10",
+      "track": "sMEw2Ya4"
     },
     {
       "vin": "WVWZZZ3CZCP030238",
@@ -92,12 +116,12 @@
       "track": "A0IM608y"
     },
     {
-      "vin": "WDD2040021A637791",
-      "model": "C-KLASSE",
+      "vin": "SHSRD87906U429352",
+      "model": "CR-V",
       "fra": "RIN OMLÆSNING",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-04",
-      "track": "KWOcOywO"
+      "leveringsdato": "2026-06-10",
+      "track": "4iWyeKUk"
     },
     {
       "vin": "WVGZZZA1ZJV023272",
@@ -106,6 +130,30 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-06-04",
       "track": "0wQ4W0o8"
+    },
+    {
+      "vin": "VF12RAU1D57639922",
+      "model": "CAPTUR",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-08",
+      "track": "SkMCcAgO"
+    },
+    {
+      "vin": "WVGZZZA1ZJV104009",
+      "model": "T-ROC",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-08",
+      "track": "koaeKg0w"
+    },
+    {
+      "vin": "JMZKF6W1600689069",
+      "model": "CX-5",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-09",
+      "track": "wUEMWEuK"
     }
   ]
 }

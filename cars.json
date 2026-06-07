@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-04T21:24:31+00:00",
+  "lastUpdated": "2026-06-07T21:25:48+00:00",
   "source": "autologik-mail",
-  "count": 17,
+  "count": 6,
   "cars": [
     {
       "vin": "VF1RJB00265788614",
@@ -10,110 +10,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-06-08",
       "track": "GK8YuMCc"
-    },
-    {
-      "vin": "WDD2040021A637791",
-      "model": "C-KLASSE",
-      "fra": "VW GLOSTRUP",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-04",
-      "track": "KWOcOywO"
-    },
-    {
-      "vin": "VF12RAU1D57639922",
-      "model": "CAPTUR",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-08",
-      "track": "SkMCcAgO"
-    },
-    {
-      "vin": "WVGZZZA1ZJV104009",
-      "model": "T-ROC",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-08",
-      "track": "koaeKg0w"
-    },
-    {
-      "vin": "WVGZZZA1ZJV023272",
-      "model": "T-ROC",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-04",
-      "track": "0wQ4W0o8"
-    },
-    {
-      "vin": "U5YPK816HGL177365",
-      "model": "SPORTAGE",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-04",
-      "track": "auuE0QGQ"
-    },
-    {
-      "vin": "JMZDK6W7A01439797",
-      "model": "CX-3",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-04",
-      "track": "Qc6isO2a"
-    },
-    {
-      "vin": "WDD2050051F369973",
-      "model": "C-KLASSE",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-04",
-      "track": "Akuewqk2"
-    },
-    {
-      "vin": "SHSRE67808U007518",
-      "model": "CR-V",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-04",
-      "track": "mGMEqkSM"
-    },
-    {
-      "vin": "JMZGL623801510451",
-      "model": "MAZDA6",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-10",
-      "track": "sMEw2Ya4"
-    },
-    {
-      "vin": "SHSRD87906U429352",
-      "model": "CR-V",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-10",
-      "track": "4iWyeKUk"
-    },
-    {
-      "vin": "JMZKF6W1600689069",
-      "model": "CX-5",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-09",
-      "track": "wUEMWEuK"
-    },
-    {
-      "vin": "WF02XXERK2NU39606",
-      "model": "PUMA",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-11",
-      "track": "coaisaUk"
-    },
-    {
-      "vin": "VR3UDYHZRLJ736050",
-      "model": "2008",
-      "fra": "JONSTRUP BILER APS",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-09",
-      "track": "MA6gsUUg"
     },
     {
       "vin": "WVWZZZ3CZCP030238",
@@ -138,6 +34,22 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-06-08",
       "track": "IQQ4YM8M"
+    },
+    {
+      "vin": "WDD2040021A637791",
+      "model": "C-KLASSE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-04",
+      "track": "KWOcOywO"
+    },
+    {
+      "vin": "VR3UDYHZRLJ736050",
+      "model": "2008",
+      "fra": "JONSTRUP BILER APS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-09",
+      "track": "MA6gsUUg"
     }
   ]
 }

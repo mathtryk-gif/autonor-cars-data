@@ -1,87 +1,15 @@
 {
-  "lastUpdated": "2026-06-28T21:23:48+00:00",
+  "lastUpdated": "2026-06-29T21:23:47+00:00",
   "source": "autologik-mail",
-  "count": 15,
+  "count": 11,
   "cars": [
     {
-      "vin": "VR3UDYHZRLJ736998",
-      "model": "2008",
-      "fra": "OMLÆSNING SOVER UDE",
+      "vin": "SHSRE5770EU007686",
+      "model": "CR-V",
+      "fra": "VAM",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-29",
-      "track": "GikIaw4O"
-    },
-    {
-      "vin": "WDD1760081J752929",
-      "model": "A-KLASSE",
-      "fra": "OMLÆSNING SOVER UDE",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-29",
-      "track": "qwa4wuco"
-    },
-    {
-      "vin": "TMAJ381ADHJ384909",
-      "model": "TUCSON",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-30",
-      "track": "kQ8cUi44"
-    },
-    {
-      "vin": "VF3M45GFRKS079626",
-      "model": "3008",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-01",
-      "track": "YOCIWwow"
-    },
-    {
-      "vin": "SJNFAAJ11U2702537",
-      "model": "QASHQAI",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-30",
-      "track": "Mi8UUgGy"
-    },
-    {
-      "vin": "WAUZZZ8U7HR029301",
-      "model": "Q3",
-      "fra": "AUTO CENTRUM FRUENS BØGE APS",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-24",
-      "track": "AwskksUq"
-    },
-    {
-      "vin": "WBA5E7105GG565244",
-      "model": "5-SERIE",
-      "fra": "BM TILST",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-30",
-      "track": "ieugwaG6"
-    },
-    {
-      "vin": "WVWZZZ7NZBV033584",
-      "model": "SHARAN",
-      "fra": "VW RANDERS",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-30",
-      "track": "0KsiKu02"
-    },
-    {
-      "vin": "VF1RJB00X63806319",
-      "model": "CAPTUR",
-      "fra": "DA VIBORG",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-30",
-      "track": "uc0WSa2S"
-    },
-    {
-      "vin": "WAUZZZ8K9DN033396",
-      "model": "A4",
-      "fra": "TO THISTED",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-30",
-      "track": "2u4m0uuY"
+      "leveringsdato": "2026-06-26",
+      "track": "eoewe6YS"
     },
     {
       "vin": "U5YPC813DEL546107",
@@ -108,12 +36,20 @@
       "track": "A84YSu86"
     },
     {
-      "vin": "VF3MCYHZJJS302587",
-      "model": "3008",
-      "fra": "VAM OMLÆSNING",
+      "vin": "WVWZZZ7NZBV033584",
+      "model": "SHARAN",
+      "fra": "VW RANDERS",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-06-26",
-      "track": "eUAyu0Wu"
+      "leveringsdato": "2026-06-30",
+      "track": "0KsiKu02"
+    },
+    {
+      "vin": "W0L7H9ECXH4261931",
+      "model": "CROSSLAND X",
+      "fra": "BILHUSET KØGE",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-03",
+      "track": "WqU4uoGK"
     },
     {
       "vin": "YV1DZA8CDG2824928",
@@ -122,6 +58,38 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-02",
       "track": "aiG4SQaI"
+    },
+    {
+      "vin": "WAUZZZ8U7HR029301",
+      "model": "Q3",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-24",
+      "track": "AwskksUq"
+    },
+    {
+      "vin": "VF1RJB00X63806319",
+      "model": "CAPTUR",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-30",
+      "track": "uc0WSa2S"
+    },
+    {
+      "vin": "WAUZZZ8K9DN033396",
+      "model": "A4",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-30",
+      "track": "2u4m0uuY"
+    },
+    {
+      "vin": "VF3MCYHZJJS302587",
+      "model": "3008",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-06-26",
+      "track": "eUAyu0Wu"
     }
   ]
 }

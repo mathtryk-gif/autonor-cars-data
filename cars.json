@@ -1,160 +1,8 @@
 {
-  "lastUpdated": "2026-07-02T21:22:34+00:00",
+  "lastUpdated": "2026-07-05T21:24:51+00:00",
   "source": "autologik-mail",
-  "count": 29,
+  "count": 21,
   "cars": [
-    {
-      "vin": "WAUZZZ8U4CR018068",
-      "model": "Q3",
-      "fra": "OMLÆSNING SOVER UDE",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "OUOOCMoi"
-    },
-    {
-      "vin": "YV1DZA8CDG2824928",
-      "model": "XC60",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-02",
-      "track": "aiG4SQaI"
-    },
-    {
-      "vin": "W0VZJEHZXKS368056",
-      "model": "GRANDLAND X",
-      "fra": "VAM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "ew8yUy68"
-    },
-    {
-      "vin": "WDD1173431N732234",
-      "model": "CLA-KLASSE",
-      "fra": "VAM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "eSysO0gm"
-    },
-    {
-      "vin": "W0VZCYHZ5K6003188",
-      "model": "GRANDLAND X",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-02",
-      "track": "m0Gw8SMg"
-    },
-    {
-      "vin": "VR3FCYHZRKY138331",
-      "model": "508-SW",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-02",
-      "track": "EGg4C6oW"
-    },
-    {
-      "vin": "TMBAG7NP9K7015685",
-      "model": "SUPERB",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-02",
-      "track": "2mMqCgIg"
-    },
-    {
-      "vin": "WBA3D31080J272630",
-      "model": "3-SERIE",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-02",
-      "track": "YcaCiGE4"
-    },
-    {
-      "vin": "VNVK1400359284038",
-      "model": "MICRA",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "8wC8OQqc"
-    },
-    {
-      "vin": "LUCGG3760C3214846",
-      "model": "JAZZ",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "KcEUA22G"
-    },
-    {
-      "vin": "VR3FBYHZJJY200390",
-      "model": "508",
-      "fra": "SJÆLLANDS AUTOMÆGLER",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-06",
-      "track": "iScqYoSI"
-    },
-    {
-      "vin": "WBAFW11000DU15841",
-      "model": "5-SERIE",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-06",
-      "track": "Y620kYiY"
-    },
-    {
-      "vin": "U5YPU81BANL082742",
-      "model": "SPORTAGE",
-      "fra": "LEIF PERDERSEN BILER A/S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "Ik0EYiya"
-    },
-    {
-      "vin": "WVGZZZ5NZGW305155",
-      "model": "TIGUAN",
-      "fra": "LEIF PERDERSEN BILER A/S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "uWo4KUiq"
-    },
-    {
-      "vin": "WDC1569431J583548",
-      "model": "GLA-KLASSE",
-      "fra": "HY NYKF",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "eIgsWYaY"
-    },
-    {
-      "vin": "W0VZCYHZ0KS297154",
-      "model": "GRANDLAND X",
-      "fra": "STEVNS AUTOFORUM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "MWKOI8S0"
-    },
-    {
-      "vin": "WDD2050451F114436",
-      "model": "C-KLASSE",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "yGYS6OaK"
-    },
-    {
-      "vin": "W0L7H9ECXH4261931",
-      "model": "CROSSLAND X",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "WqU4uoGK"
-    },
-    {
-      "vin": "WF0YXXTTGYKP58965",
-      "model": "TRANSIT CUSTOM-L2H1",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-06",
-      "track": "sIM0qesC"
-    },
     {
       "vin": "WVGZZZ1TZMW035389",
       "model": "TOURAN",
@@ -162,14 +10,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-02",
       "track": "YyiKYEms"
-    },
-    {
-      "vin": "WBAHU1105J5H06350",
-      "model": "X1",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "GsUwsGK6"
     },
     {
       "vin": "WF0AXXWPMAFE83395",
@@ -196,12 +36,52 @@
       "track": "K4ECE4C4"
     },
     {
-      "vin": "WAUZZZ8V9G1051192",
-      "model": "A3",
+      "vin": "WVGZZZA1ZJV084977",
+      "model": "T-ROC",
+      "fra": "TO ÅRS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "uuasUG4k"
+    },
+    {
+      "vin": "W0VZCYHZ0KS297154",
+      "model": "GRANDLAND X",
+      "fra": "STEVNS AUTOFORUM",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "MWKOI8S0"
+    },
+    {
+      "vin": "VF1RFE00858187482",
+      "model": "KADJAR",
+      "fra": "RE ALBERTSLUND",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-09",
+      "track": "Wc6EiUS4"
+    },
+    {
+      "vin": "W0L7H9ECXH4261931",
+      "model": "CROSSLAND X",
       "fra": "RIN OMLÆSNING",
       "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "WqU4uoGK"
+    },
+    {
+      "vin": "WF0YXXTTGYKP58965",
+      "model": "TRANSIT CUSTOM-L2H1",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
       "leveringsdato": "2026-07-06",
-      "track": "4UkWywos"
+      "track": "sIM0qesC"
+    },
+    {
+      "vin": "WBAHU1105J5H06350",
+      "model": "X1",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-03",
+      "track": "GsUwsGK6"
     },
     {
       "vin": "SJNFFAJ11U2517560",
@@ -212,20 +92,20 @@
       "track": "c4wou6SG"
     },
     {
-      "vin": "VF12RAJ1D55385209",
-      "model": "CAPTUR",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-06",
-      "track": "eIemmGUy"
-    },
-    {
-      "vin": "SJNFFAJ11U2555269",
-      "model": "QASHQAI",
-      "fra": "RIN OMLÆSNING",
+      "vin": "TMBJC7NS6J8093379",
+      "model": "KODIAQ",
+      "fra": "VAM",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-07",
-      "track": "8GSGWgaW"
+      "track": "6wigWGMw"
+    },
+    {
+      "vin": "WDC2539091F068831",
+      "model": "GLC",
+      "fra": "JACON BILER A/S",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "AuC6yOUk"
     },
     {
       "vin": "WDD2462081N241810",
@@ -234,6 +114,62 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-07",
       "track": "8CawKI46"
+    },
+    {
+      "vin": "U5YPU81BANL082742",
+      "model": "SPORTAGE",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "Ik0EYiya"
+    },
+    {
+      "vin": "WVGZZZ5NZGW305155",
+      "model": "TIGUAN",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "uWo4KUiq"
+    },
+    {
+      "vin": "TMAJ3815GHJ391014",
+      "model": "TUCSON",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "keaSWiOC"
+    },
+    {
+      "vin": "TMAJ381ADHJ384651",
+      "model": "TUCSON",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "SWk2QWSi"
+    },
+    {
+      "vin": "VR3FBYHZJJY200390",
+      "model": "508",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-06",
+      "track": "iScqYoSI"
+    },
+    {
+      "vin": "VSSZZZ5FZK6513326",
+      "model": "ATECA",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-09",
+      "track": "SEC6a8CU"
+    },
+    {
+      "vin": "WDC1569431J583548",
+      "model": "GLA-KLASSE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "eIgsWYaY"
     }
   ]
 }

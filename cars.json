@@ -1,64 +1,8 @@
 {
-  "lastUpdated": "2026-07-05T21:24:51+00:00",
+  "lastUpdated": "2026-07-06T21:23:00+00:00",
   "source": "autologik-mail",
-  "count": 21,
+  "count": 17,
   "cars": [
-    {
-      "vin": "WVGZZZ1TZMW035389",
-      "model": "TOURAN",
-      "fra": "ZODIAK OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-02",
-      "track": "YyiKYEms"
-    },
-    {
-      "vin": "WF0AXXWPMAFE83395",
-      "model": "KUGA",
-      "fra": "ZODIAK OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-02",
-      "track": "Igceaaki"
-    },
-    {
-      "vin": "WBA4E9102HG599022",
-      "model": "4-SERIE",
-      "fra": "ZODIAK OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "GUUMwIMS"
-    },
-    {
-      "vin": "VF3MCYHZJKS287896",
-      "model": "3008",
-      "fra": "ZODIAK OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-03",
-      "track": "K4ECE4C4"
-    },
-    {
-      "vin": "WVGZZZA1ZJV084977",
-      "model": "T-ROC",
-      "fra": "TO ÅRS",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "uuasUG4k"
-    },
-    {
-      "vin": "W0VZCYHZ0KS297154",
-      "model": "GRANDLAND X",
-      "fra": "STEVNS AUTOFORUM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "MWKOI8S0"
-    },
-    {
-      "vin": "VF1RFE00858187482",
-      "model": "KADJAR",
-      "fra": "RE ALBERTSLUND",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-09",
-      "track": "Wc6EiUS4"
-    },
     {
       "vin": "W0L7H9ECXH4261931",
       "model": "CROSSLAND X",
@@ -66,6 +10,30 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-07",
       "track": "WqU4uoGK"
+    },
+    {
+      "vin": "U5YPU81BANL082742",
+      "model": "SPORTAGE",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "Ik0EYiya"
+    },
+    {
+      "vin": "WVGZZZ5NZGW305155",
+      "model": "TIGUAN",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "uWo4KUiq"
+    },
+    {
+      "vin": "VR3FBYHZJJY200390",
+      "model": "508",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-06",
+      "track": "iScqYoSI"
     },
     {
       "vin": "WF0YXXTTGYKP58965",
@@ -100,36 +68,12 @@
       "track": "6wigWGMw"
     },
     {
-      "vin": "WDC2539091F068831",
-      "model": "GLC",
-      "fra": "JACON BILER A/S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "AuC6yOUk"
-    },
-    {
       "vin": "WDD2462081N241810",
       "model": "B200",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-07",
       "track": "8CawKI46"
-    },
-    {
-      "vin": "U5YPU81BANL082742",
-      "model": "SPORTAGE",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "Ik0EYiya"
-    },
-    {
-      "vin": "WVGZZZ5NZGW305155",
-      "model": "TIGUAN",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-07",
-      "track": "uWo4KUiq"
     },
     {
       "vin": "TMAJ3815GHJ391014",
@@ -148,14 +92,6 @@
       "track": "SWk2QWSi"
     },
     {
-      "vin": "VR3FBYHZJJY200390",
-      "model": "508",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-06",
-      "track": "iScqYoSI"
-    },
-    {
       "vin": "VSSZZZ5FZK6513326",
       "model": "ATECA",
       "fra": "VAM OMLÆSNING",
@@ -170,6 +106,38 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-07",
       "track": "eIgsWYaY"
+    },
+    {
+      "vin": "W0VZCYHZ0KS297154",
+      "model": "GRANDLAND X",
+      "fra": "OMLÆS SUZUKI IMP",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "MWKOI8S0"
+    },
+    {
+      "vin": "WVGZZZA1ZJV084977",
+      "model": "T-ROC",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "uuasUG4k"
+    },
+    {
+      "vin": "WDC2539091F068831",
+      "model": "GLC",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-07",
+      "track": "AuC6yOUk"
+    },
+    {
+      "vin": "VF1RFE00858187482",
+      "model": "KADJAR",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-09",
+      "track": "Wc6EiUS4"
     }
   ]
 }

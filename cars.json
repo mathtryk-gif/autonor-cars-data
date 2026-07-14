@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T21:24:54+00:00",
+  "lastUpdated": "2026-07-14T21:24:48+00:00",
   "source": "autologik-mail",
   "count": 23,
   "cars": [
@@ -20,44 +20,36 @@
       "track": "0wyi4CAS"
     },
     {
-      "vin": "WAUZZZ8R5EA005522",
-      "model": "Q5",
-      "fra": "OMLÆSNING SOVER UDE",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-14",
-      "track": "eKm48GWg"
-    },
-    {
-      "vin": "JMBXLGF6WGJ401045",
-      "model": "OUTLANDER",
-      "fra": "SUB SORØ",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-14",
-      "track": "OQg66O0I"
-    },
-    {
-      "vin": "WVGZZZ1TZLW034636",
-      "model": "TOURAN",
+      "vin": "VF1HJD20860825487",
+      "model": "DUSTER",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-14",
-      "track": "2S2W4ySC"
+      "track": "k6WOuko2"
     },
     {
-      "vin": "WVWZZZ7NZBV027971",
-      "model": "SHARAN",
-      "fra": "VW SILKEBORG 003",
+      "vin": "VSSZZZ5FZK6587896",
+      "model": "ATECA",
+      "fra": "UGGERHØJ FREDERIKSHAVN A/S",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-15",
-      "track": "ecYoWyKY"
+      "leveringsdato": "2026-07-16",
+      "track": "Cg2ekWA8"
     },
     {
-      "vin": "U5YPK816HJL539121",
-      "model": "SPORTAGE",
-      "fra": "AUTOHUSET FRSUND VW",
+      "vin": "SJNFDAJ11U1022625",
+      "model": "QASHQAI",
+      "fra": "HY FRHAVN",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-17",
-      "track": "wCEauug0"
+      "leveringsdato": "2026-07-16",
+      "track": "2yCEoYso"
+    },
+    {
+      "vin": "WVWZZZ3CZHE001311",
+      "model": "PASSAT",
+      "fra": "VW HORSENS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-16",
+      "track": "A0KGOQ6A"
     },
     {
       "vin": "WVGZZZ1TZHW102069",
@@ -68,12 +60,20 @@
       "track": "kKsOOyGo"
     },
     {
-      "vin": "TMBJG7NU5LJ011269",
-      "model": "KAROQ",
-      "fra": "MIDTJYSK AUTOMOBILER",
+      "vin": "WVGZZZ1TZLW016245",
+      "model": "TOURAN",
+      "fra": "PEDERSEN & NIELSEN AALBORG - E",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-15",
-      "track": "UkgGqQOu"
+      "leveringsdato": "2026-07-16",
+      "track": "GY88kiG0"
+    },
+    {
+      "vin": "U5YPK816HJL539121",
+      "model": "SPORTAGE",
+      "fra": "AUTOHUSET FRSUND VW",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-17",
+      "track": "wCEauug0"
     },
     {
       "vin": "VF1HJD20168100914",
@@ -92,14 +92,6 @@
       "track": "mKYcaAe6"
     },
     {
-      "vin": "JN1TGAT32U0001187",
-      "model": "X-TRAIL",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-16",
-      "track": "qO8QYc8e"
-    },
-    {
       "vin": "YV1PWA89DH1018546",
       "model": "V90",
       "fra": "RIN OMLÆSNING",
@@ -108,60 +100,12 @@
       "track": "UkYYCokK"
     },
     {
-      "vin": "VF1HJD20860825487",
-      "model": "DUSTER",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-14",
-      "track": "k6WOuko2"
-    },
-    {
       "vin": "VR7ECYHYCLJ763448",
       "model": "BERLINGO",
       "fra": "RIN OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-17",
       "track": "UgUOi80w"
-    },
-    {
-      "vin": "YV1BZ8756C1138835",
-      "model": "XC70",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-16",
-      "track": "6u0qsgOM"
-    },
-    {
-      "vin": "W0VZCBHZ4JS021426",
-      "model": "GRANDLAND X",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-15",
-      "track": "yqOs0ec0"
-    },
-    {
-      "vin": "YV1LFA4BCG1019535",
-      "model": "XC90",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-15",
-      "track": "ooQ6SKSk"
-    },
-    {
-      "vin": "VF3MRHNYWJS142690",
-      "model": "3008",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-15",
-      "track": "qMykW68K"
-    },
-    {
-      "vin": "WDD2042821F733975",
-      "model": "C-KLASSE",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-15",
-      "track": "SWweeoMW"
     },
     {
       "vin": "TMBJJ7NS7J8072689",
@@ -186,6 +130,62 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-17",
       "track": "oYU8Kmu6"
+    },
+    {
+      "vin": "VF1RFE00456547181",
+      "model": "KADJAR",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-16",
+      "track": "OockQMI2"
+    },
+    {
+      "vin": "UU1HSDJ9P58204532",
+      "model": "DUSTER",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-16",
+      "track": "2IeAgmkW"
+    },
+    {
+      "vin": "WDD1760431J453170",
+      "model": "A-KLASSE",
+      "fra": "ZODIAK OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-16",
+      "track": "MAmSOoeE"
+    },
+    {
+      "vin": "TMBJG7NU5LJ011269",
+      "model": "KAROQ",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-15",
+      "track": "UkgGqQOu"
+    },
+    {
+      "vin": "WVWZZZAUZDP090797",
+      "model": "GOLF",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-16",
+      "track": "cE4m0cqK"
+    },
+    {
+      "vin": "WAUZZZ8KXDA088723",
+      "model": "A4",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-20",
+      "track": "OkSw8aky"
+    },
+    {
+      "vin": "VF1R8700462184847",
+      "model": "CAPTUR",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-20",
+      "track": "sAYQK8K4"
     }
   ]
 }

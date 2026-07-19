@@ -1,55 +1,15 @@
 {
-  "lastUpdated": "2026-07-16T21:24:09+00:00",
+  "lastUpdated": "2026-07-19T21:25:15+00:00",
   "source": "autologik-mail",
-  "count": 9,
+  "count": 6,
   "cars": [
     {
-      "vin": "WF0RXXGCDRBU41934",
-      "model": "KUGA",
-      "fra": "VAM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-21",
-      "track": "yC4Wc4qC"
-    },
-    {
-      "vin": "TMBAB7NP9H7044434",
-      "model": "SUPERB",
-      "fra": "VAM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-21",
-      "track": "uAQU2MKM"
-    },
-    {
-      "vin": "VF1RFA00355509617",
-      "model": "SCENIC",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-20",
-      "track": "qkaUGSMC"
-    },
-    {
-      "vin": "VF3MCYHZJJS306288",
-      "model": "3008",
-      "fra": "VAM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-17",
-      "track": "Y8wOAiMY"
-    },
-    {
-      "vin": "TMBJF73T7E9013509",
-      "model": "SUPERB",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-17",
-      "track": "AYMOC8Gs"
-    },
-    {
-      "vin": "U5YPH813DKL595049",
+      "vin": "U5YPK816HJL539121",
       "model": "SPORTAGE",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-17",
-      "track": "qEe0YQo6"
+      "track": "wCEauug0"
     },
     {
       "vin": "W0LSH9EM6G4203557",
@@ -68,12 +28,28 @@
       "track": "MsoWmKQm"
     },
     {
-      "vin": "U5YPK816HJL539121",
-      "model": "SPORTAGE",
+      "vin": "WVWZZZAUZKW110262",
+      "model": "GOLF",
+      "fra": "C.C AUTOHUS APS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-23",
+      "track": "sk08u0ma"
+    },
+    {
+      "vin": "WVGZZZ5NZJW815714",
+      "model": "TIGUAN",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-21",
+      "track": "i6ose8m2"
+    },
+    {
+      "vin": "VR3UDYHYJKJ855095",
+      "model": "2008",
       "fra": "RIN OMLÆSNING",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-17",
-      "track": "wCEauug0"
+      "leveringsdato": "2026-07-23",
+      "track": "yy46SO0q"
     }
   ]
 }

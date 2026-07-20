@@ -1,28 +1,12 @@
 {
-  "lastUpdated": "2026-07-19T21:25:15+00:00",
+  "lastUpdated": "2026-07-20T21:25:53+00:00",
   "source": "autologik-mail",
-  "count": 6,
+  "count": 4,
   "cars": [
-    {
-      "vin": "U5YPK816HJL539121",
-      "model": "SPORTAGE",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-17",
-      "track": "wCEauug0"
-    },
-    {
-      "vin": "W0LSH9EM6G4203557",
-      "model": "MERIVA",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-22",
-      "track": "iE4AiyKM"
-    },
     {
       "vin": "W0LJD7E8XH4215677",
       "model": "MOKKA X",
-      "fra": "RIN OMLÆSNING",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-21",
       "track": "MsoWmKQm"
@@ -36,17 +20,17 @@
       "track": "sk08u0ma"
     },
     {
-      "vin": "WVGZZZ5NZJW815714",
-      "model": "TIGUAN",
+      "vin": "W0LSH9EM6G4203557",
+      "model": "MERIVA",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-21",
-      "track": "i6ose8m2"
+      "leveringsdato": "2026-07-22",
+      "track": "iE4AiyKM"
     },
     {
       "vin": "VR3UDYHYJKJ855095",
       "model": "2008",
-      "fra": "RIN OMLÆSNING",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-23",
       "track": "yy46SO0q"

@@ -1,24 +1,8 @@
 {
-  "lastUpdated": "2026-07-20T21:25:53+00:00",
+  "lastUpdated": "2026-07-21T21:23:48+00:00",
   "source": "autologik-mail",
-  "count": 4,
+  "count": 3,
   "cars": [
-    {
-      "vin": "W0LJD7E8XH4215677",
-      "model": "MOKKA X",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-21",
-      "track": "MsoWmKQm"
-    },
-    {
-      "vin": "WVWZZZAUZKW110262",
-      "model": "GOLF",
-      "fra": "C.C AUTOHUS APS",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-23",
-      "track": "sk08u0ma"
-    },
     {
       "vin": "W0LSH9EM6G4203557",
       "model": "MERIVA",
@@ -34,6 +18,14 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-23",
       "track": "yy46SO0q"
+    },
+    {
+      "vin": "WVWZZZAUZKW110262",
+      "model": "GOLF",
+      "fra": "C.C AUTOHUS APS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-23",
+      "track": "sk08u0ma"
     }
   ]
 }

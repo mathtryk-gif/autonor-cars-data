@@ -1,79 +1,15 @@
 {
-  "lastUpdated": "2026-07-23T21:23:34+00:00",
+  "lastUpdated": "2026-07-26T21:23:50+00:00",
   "source": "autologik-mail",
-  "count": 14,
+  "count": 12,
   "cars": [
     {
-      "vin": "WVGZZZ5NZHW818086",
-      "model": "TIGUAN",
-      "fra": "PEDERSEN & NIELSEN A/S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-27",
-      "track": "i84GEMus"
-    },
-    {
-      "vin": "SJNFDAJ11U1710859",
-      "model": "QASHQAI",
-      "fra": "VAM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-27",
-      "track": "MuSS0UaC"
-    },
-    {
-      "vin": "VF1RFA00861273989",
-      "model": "GRAND SCENIC",
-      "fra": "VAM",
+      "vin": "WBAJH9105JEJ54205",
+      "model": "X1",
+      "fra": "VIBORG AUTOGÅRD",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-28",
-      "track": "K2EUgG2Y"
-    },
-    {
-      "vin": "W0VZS8GB5J1031592",
-      "model": "INSIGNIA",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-24",
-      "track": "A6GksU4c"
-    },
-    {
-      "vin": "VR3FHEHYRJY201451",
-      "model": "508",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-27",
-      "track": "yAUUuK0u"
-    },
-    {
-      "vin": "VR3ECYHYCKJ726864",
-      "model": "RIFTER",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-27",
-      "track": "IiIg0yOA"
-    },
-    {
-      "vin": "VF1R8700862442321",
-      "model": "CAPTUR",
-      "fra": "RODI'S AUTOCENTER",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "iYa4CQ88"
-    },
-    {
-      "vin": "WDD2040021A858602",
-      "model": "C-KLASSE",
-      "fra": "TO VIA VALBY",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "GUY2cUWG"
-    },
-    {
-      "vin": "VR7AJEHZRKL048534",
-      "model": "C5 AIRCROSS",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-27",
-      "track": "GSYWg6AY"
+      "track": "0aMKYYY4"
     },
     {
       "vin": "W0V7H9EB8L4048838",
@@ -100,12 +36,20 @@
       "track": "CecYoYi0"
     },
     {
-      "vin": "TMBJG7NU1L5020219",
-      "model": "KAROQ",
+      "vin": "W0VJD7E88K4113602",
+      "model": "MOKKA X",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-27",
-      "track": "cuQQ0McW"
+      "leveringsdato": "2026-07-30",
+      "track": "KwYWsOOA"
+    },
+    {
+      "vin": "WAUZZZ8V0FA118499",
+      "model": "A3",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "aUuU6UgC"
     },
     {
       "vin": "WAUZZZ8U1JR069878",
@@ -114,6 +58,46 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-28",
       "track": "casMGA60"
+    },
+    {
+      "vin": "WDD2040021A858602",
+      "model": "C-KLASSE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-28",
+      "track": "GUY2cUWG"
+    },
+    {
+      "vin": "VR7ACYHZRKL101322",
+      "model": "C5 AIRCROSS",
+      "fra": "ZODIAK OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-28",
+      "track": "oU0gUU4E"
+    },
+    {
+      "vin": "TMBJJ9NE8J0090624",
+      "model": "OCTAVIA",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-30",
+      "track": "cmeIe8IC"
+    },
+    {
+      "vin": "VF1R8700862442321",
+      "model": "CAPTUR",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-28",
+      "track": "iYa4CQ88"
+    },
+    {
+      "vin": "TMBAJ9NE6K0007743",
+      "model": "OCTAVIA",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-28",
+      "track": "iKCKk8qy"
     }
   ]
 }

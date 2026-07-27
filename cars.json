@@ -1,47 +1,39 @@
 {
-  "lastUpdated": "2026-07-26T21:23:50+00:00",
+  "lastUpdated": "2026-07-27T21:22:37+00:00",
   "source": "autologik-mail",
-  "count": 12,
+  "count": 13,
   "cars": [
     {
-      "vin": "WBAJH9105JEJ54205",
-      "model": "X1",
-      "fra": "VIBORG AUTOGÅRD",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "0aMKYYY4"
-    },
-    {
-      "vin": "W0V7H9EB8L4048838",
-      "model": "CROSSLAND",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "e80uUYM8"
-    },
-    {
-      "vin": "VF12R031A59659272",
-      "model": "CAPTUR",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-30",
-      "track": "6Wiw620M"
-    },
-    {
-      "vin": "TMBJE73T1F9058823",
-      "model": "SUPERB",
-      "fra": "VAM OMLÆSNING",
+      "vin": "WAUZZZ8K7FA056055",
+      "model": "A4",
+      "fra": "OMLÆSNING SOVER UDE",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-29",
-      "track": "CecYoYi0"
+      "track": "E2Y4wyuo"
     },
     {
-      "vin": "W0VJD7E88K4113602",
-      "model": "MOKKA X",
+      "vin": "VR7ACYHZRKL101322",
+      "model": "C5 AIRCROSS",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-30",
-      "track": "KwYWsOOA"
+      "leveringsdato": "2026-07-28",
+      "track": "oU0gUU4E"
+    },
+    {
+      "vin": "WVGZZZC1ZKY042731",
+      "model": "T-CROSS",
+      "fra": "VW HØJBJERG",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-29",
+      "track": "EEwsQEUi"
+    },
+    {
+      "vin": "WDD2040031A781501",
+      "model": "C-KLASSE",
+      "fra": "HY FRHAVN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-29",
+      "track": "ie6eaoEy"
     },
     {
       "vin": "WAUZZZ8V0FA118499",
@@ -52,28 +44,20 @@
       "track": "aUuU6UgC"
     },
     {
-      "vin": "WAUZZZ8U1JR069878",
-      "model": "Q3",
-      "fra": "VAM OMLÆSNING",
+      "vin": "TMBJR7NU9MC205027",
+      "model": "KAROQ",
+      "fra": "VW KBH S",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "casMGA60"
+      "leveringsdato": "2026-07-31",
+      "track": "wOI8YCuG"
     },
     {
-      "vin": "WDD2040021A858602",
-      "model": "C-KLASSE",
-      "fra": "VAM OMLÆSNING",
+      "vin": "TMAJ3812HJJ429119",
+      "model": "TUCSON",
+      "fra": "HY KASTRUP",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "GUY2cUWG"
-    },
-    {
-      "vin": "VR7ACYHZRKL101322",
-      "model": "C5 AIRCROSS",
-      "fra": "ZODIAK OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "oU0gUU4E"
+      "leveringsdato": "2026-07-31",
+      "track": "6qo2umOq"
     },
     {
       "vin": "TMBJJ9NE8J0090624",
@@ -84,20 +68,44 @@
       "track": "cmeIe8IC"
     },
     {
+      "vin": "JN1JDAT32U0104501",
+      "model": "X-TRAIL",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "y8mOqAU2"
+    },
+    {
+      "vin": "VR3ECYHYCJJ791282",
+      "model": "RIFTER",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "ay46oWQs"
+    },
+    {
+      "vin": "SJNJEAJ10U7109202",
+      "model": "QASHQAI",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-29",
+      "track": "EY8S0yQK"
+    },
+    {
+      "vin": "TMBAJ9NX9LY033967",
+      "model": "OCTAVIA",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-29",
+      "track": "QaoweM28"
+    },
+    {
       "vin": "VF1R8700862442321",
       "model": "CAPTUR",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-28",
       "track": "iYa4CQ88"
-    },
-    {
-      "vin": "TMBAJ9NE6K0007743",
-      "model": "OCTAVIA",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "iKCKk8qy"
     }
   ]
 }

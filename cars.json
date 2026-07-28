@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-27T21:22:37+00:00",
+  "lastUpdated": "2026-07-28T21:22:57+00:00",
   "source": "autologik-mail",
-  "count": 13,
+  "count": 10,
   "cars": [
     {
       "vin": "WAUZZZ8K7FA056055",
@@ -10,70 +10,6 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-29",
       "track": "E2Y4wyuo"
-    },
-    {
-      "vin": "VR7ACYHZRKL101322",
-      "model": "C5 AIRCROSS",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-28",
-      "track": "oU0gUU4E"
-    },
-    {
-      "vin": "WVGZZZC1ZKY042731",
-      "model": "T-CROSS",
-      "fra": "VW HØJBJERG",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-29",
-      "track": "EEwsQEUi"
-    },
-    {
-      "vin": "WDD2040031A781501",
-      "model": "C-KLASSE",
-      "fra": "HY FRHAVN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-29",
-      "track": "ie6eaoEy"
-    },
-    {
-      "vin": "WAUZZZ8V0FA118499",
-      "model": "A3",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "aUuU6UgC"
-    },
-    {
-      "vin": "TMBJR7NU9MC205027",
-      "model": "KAROQ",
-      "fra": "VW KBH S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-31",
-      "track": "wOI8YCuG"
-    },
-    {
-      "vin": "TMAJ3812HJJ429119",
-      "model": "TUCSON",
-      "fra": "HY KASTRUP",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-31",
-      "track": "6qo2umOq"
-    },
-    {
-      "vin": "TMBJJ9NE8J0090624",
-      "model": "OCTAVIA",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-30",
-      "track": "cmeIe8IC"
-    },
-    {
-      "vin": "JN1JDAT32U0104501",
-      "model": "X-TRAIL",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "y8mOqAU2"
     },
     {
       "vin": "VR3ECYHYCJJ791282",
@@ -100,12 +36,52 @@
       "track": "QaoweM28"
     },
     {
+      "vin": "WAUZZZ8V0FA118499",
+      "model": "A3",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "aUuU6UgC"
+    },
+    {
+      "vin": "TMBJR7NU9MC205027",
+      "model": "KAROQ",
+      "fra": "VW KBH S",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "wOI8YCuG"
+    },
+    {
+      "vin": "TMAJ3812HJJ429119",
+      "model": "TUCSON",
+      "fra": "HY KASTRUP",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "6qo2umOq"
+    },
+    {
+      "vin": "JN1JDAT32U0104501",
+      "model": "X-TRAIL",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "y8mOqAU2"
+    },
+    {
       "vin": "VF1R8700862442321",
       "model": "CAPTUR",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-28",
       "track": "iYa4CQ88"
+    },
+    {
+      "vin": "WVGZZZ5NZKW338608",
+      "model": "TIGUAN",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-30",
+      "track": "UEA0ssEC"
     }
   ]
 }

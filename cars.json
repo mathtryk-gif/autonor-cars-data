@@ -1,71 +1,15 @@
 {
-  "lastUpdated": "2026-07-28T21:22:57+00:00",
+  "lastUpdated": "2026-07-29T21:24:24+00:00",
   "source": "autologik-mail",
-  "count": 10,
+  "count": 14,
   "cars": [
     {
-      "vin": "WAUZZZ8K7FA056055",
-      "model": "A4",
-      "fra": "OMLÆSNING SOVER UDE",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-29",
-      "track": "E2Y4wyuo"
-    },
-    {
-      "vin": "VR3ECYHYCJJ791282",
-      "model": "RIFTER",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-31",
-      "track": "ay46oWQs"
-    },
-    {
-      "vin": "SJNJEAJ10U7109202",
+      "vin": "SJNFAAJ11U2761801",
       "model": "QASHQAI",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-29",
-      "track": "EY8S0yQK"
-    },
-    {
-      "vin": "TMBAJ9NX9LY033967",
-      "model": "OCTAVIA",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-29",
-      "track": "QaoweM28"
-    },
-    {
-      "vin": "WAUZZZ8V0FA118499",
-      "model": "A3",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "aUuU6UgC"
-    },
-    {
-      "vin": "TMBJR7NU9MC205027",
-      "model": "KAROQ",
-      "fra": "VW KBH S",
+      "fra": "NI ÅLBORG",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-31",
-      "track": "wOI8YCuG"
-    },
-    {
-      "vin": "TMAJ3812HJJ429119",
-      "model": "TUCSON",
-      "fra": "HY KASTRUP",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-07-31",
-      "track": "6qo2umOq"
-    },
-    {
-      "vin": "JN1JDAT32U0104501",
-      "model": "X-TRAIL",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "y8mOqAU2"
+      "track": "uI08Mmsu"
     },
     {
       "vin": "VF1R8700862442321",
@@ -82,6 +26,94 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-07-30",
       "track": "UEA0ssEC"
+    },
+    {
+      "vin": "WAUZZZ8V0FA118499",
+      "model": "A3",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "aUuU6UgC"
+    },
+    {
+      "vin": "JN1JDAT32U0104501",
+      "model": "X-TRAIL",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "y8mOqAU2"
+    },
+    {
+      "vin": "VF3MJEHZRJS240552",
+      "model": "3008",
+      "fra": "RIN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-04",
+      "track": "YsEKuOAY"
+    },
+    {
+      "vin": "WAUZZZ8U8JR059073",
+      "model": "Q3",
+      "fra": "VAM",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "aaQ4ggMm"
+    },
+    {
+      "vin": "TSMLYEA1S00606623",
+      "model": "VITARA",
+      "fra": "VAM",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "8msMosyI"
+    },
+    {
+      "vin": "SJNFAAJ11U2764593",
+      "model": "QASHQAI",
+      "fra": "VAM",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "oGOI6S2C"
+    },
+    {
+      "vin": "U5YPK812HKL575150",
+      "model": "SPORTAGE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "O4KAaGMO"
+    },
+    {
+      "vin": "TMBJR7NU9MC205027",
+      "model": "KAROQ",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "wOI8YCuG"
+    },
+    {
+      "vin": "TMAJ3812HJJ429119",
+      "model": "TUCSON",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "6qo2umOq"
+    },
+    {
+      "vin": "W0LJ7BPBSBV636614",
+      "model": "VIVARO-L1H1",
+      "fra": "RIN OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-04",
+      "track": "2u6UoAeG"
+    },
+    {
+      "vin": "U5YPK812GKL570632",
+      "model": "SPORTAGE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-07-31",
+      "track": "cYou6iUO"
     }
   ]
 }

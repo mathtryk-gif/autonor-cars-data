@@ -1,40 +1,8 @@
 {
-  "lastUpdated": "2026-07-30T21:23:22+00:00",
+  "lastUpdated": "2026-08-02T21:24:01+00:00",
   "source": "autologik-mail",
-  "count": 10,
+  "count": 9,
   "cars": [
-    {
-      "vin": "TMAJ3812GKJ861035",
-      "model": "TUCSON",
-      "fra": "UGGERHØJ ÅRHUS",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "4M2G6ieK"
-    },
-    {
-      "vin": "TMBGG7NW4L3088120",
-      "model": "KAMIQ",
-      "fra": "DALSGAARD BILER, HJØRRING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "YwikK4y4"
-    },
-    {
-      "vin": "WAUZZZ8V0FA118499",
-      "model": "A3",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "aUuU6UgC"
-    },
-    {
-      "vin": "JN1JDAT32U0104501",
-      "model": "X-TRAIL",
-      "fra": "RIN",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "y8mOqAU2"
-    },
     {
       "vin": "VF3MJEHZRJS240552",
       "model": "3008",
@@ -52,20 +20,12 @@
       "track": "2u6UoAeG"
     },
     {
-      "vin": "JN1JDAT32U0001551",
-      "model": "X-TRAIL",
-      "fra": "VAM OMLÆSNING",
+      "vin": "W0V7H9ED0K4073894",
+      "model": "CROSSLAND",
+      "fra": "VAM",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "Ywk6YwQe"
-    },
-    {
-      "vin": "JMBXLGF6WDZ406779",
-      "model": "OUTLANDER",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-05",
-      "track": "28Gu2GOa"
+      "leveringsdato": "2026-08-04",
+      "track": "O0GMuKsu"
     },
     {
       "vin": "W0LJD7E84EB564468",
@@ -76,12 +36,44 @@
       "track": "qia84oqO"
     },
     {
-      "vin": "WVGZZZ5NZJW304718",
-      "model": "TIGUAN",
+      "vin": "JN1JDAT32U0001551",
+      "model": "X-TRAIL",
       "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-03",
-      "track": "YcESo8iw"
+      "track": "Ywk6YwQe"
+    },
+    {
+      "vin": "WAUZZZ8V0FA118499",
+      "model": "A3",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "aUuU6UgC"
+    },
+    {
+      "vin": "JN1JDAT32U0104501",
+      "model": "X-TRAIL",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-03",
+      "track": "y8mOqAU2"
+    },
+    {
+      "vin": "JMBXLGF6WDZ406779",
+      "model": "OUTLANDER",
+      "fra": "FO KLÆDEBO HØRSHOLM",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-05",
+      "track": "28Gu2GOa"
+    },
+    {
+      "vin": "WVWZZZAUZKW673055",
+      "model": "GOLF",
+      "fra": "VW HOLBÆK",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-06",
+      "track": "uEiYWiWU"
     }
   ]
 }

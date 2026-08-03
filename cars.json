@@ -1,12 +1,20 @@
 {
-  "lastUpdated": "2026-08-02T21:24:01+00:00",
+  "lastUpdated": "2026-08-03T21:24:58+00:00",
   "source": "autologik-mail",
-  "count": 9,
+  "count": 7,
   "cars": [
+    {
+      "vin": "WAUZZZ8K1FA049246",
+      "model": "A4",
+      "fra": "VAM",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-04",
+      "track": "QmQIUeMk"
+    },
     {
       "vin": "VF3MJEHZRJS240552",
       "model": "3008",
-      "fra": "RIN",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-04",
       "track": "YsEKuOAY"
@@ -14,63 +22,39 @@
     {
       "vin": "W0LJ7BPBSBV636614",
       "model": "VIVARO-L1H1",
-      "fra": "RIN OMLÆSNING",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-04",
       "track": "2u6UoAeG"
     },
     {
-      "vin": "W0V7H9ED0K4073894",
-      "model": "CROSSLAND",
-      "fra": "VAM",
+      "vin": "W0LJC7E86H4030660",
+      "model": "MOKKA X",
+      "fra": "P. CHRISTENSEN A/S",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-04",
-      "track": "O0GMuKsu"
-    },
-    {
-      "vin": "W0LJD7E84EB564468",
-      "model": "MOKKA",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "qia84oqO"
-    },
-    {
-      "vin": "JN1JDAT32U0001551",
-      "model": "X-TRAIL",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "Ywk6YwQe"
-    },
-    {
-      "vin": "WAUZZZ8V0FA118499",
-      "model": "A3",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "aUuU6UgC"
-    },
-    {
-      "vin": "JN1JDAT32U0104501",
-      "model": "X-TRAIL",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-03",
-      "track": "y8mOqAU2"
+      "leveringsdato": "2026-08-05",
+      "track": "oUESACKi"
     },
     {
       "vin": "JMBXLGF6WDZ406779",
       "model": "OUTLANDER",
-      "fra": "FO KLÆDEBO HØRSHOLM",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-05",
       "track": "28Gu2GOa"
     },
     {
+      "vin": "TMAJ3815GHJ174377",
+      "model": "TUCSON",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-07",
+      "track": "EeGyAQWs"
+    },
+    {
       "vin": "WVWZZZAUZKW673055",
       "model": "GOLF",
-      "fra": "VW HOLBÆK",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-06",
       "track": "uEiYWiWU"

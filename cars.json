@@ -1,40 +1,8 @@
 {
-  "lastUpdated": "2026-08-03T21:24:58+00:00",
+  "lastUpdated": "2026-08-04T21:24:14+00:00",
   "source": "autologik-mail",
-  "count": 7,
+  "count": 8,
   "cars": [
-    {
-      "vin": "WAUZZZ8K1FA049246",
-      "model": "A4",
-      "fra": "VAM",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-04",
-      "track": "QmQIUeMk"
-    },
-    {
-      "vin": "VF3MJEHZRJS240552",
-      "model": "3008",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-04",
-      "track": "YsEKuOAY"
-    },
-    {
-      "vin": "W0LJ7BPBSBV636614",
-      "model": "VIVARO-L1H1",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-04",
-      "track": "2u6UoAeG"
-    },
-    {
-      "vin": "W0LJC7E86H4030660",
-      "model": "MOKKA X",
-      "fra": "P. CHRISTENSEN A/S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-05",
-      "track": "oUESACKi"
-    },
     {
       "vin": "JMBXLGF6WDZ406779",
       "model": "OUTLANDER",
@@ -42,6 +10,22 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-05",
       "track": "28Gu2GOa"
+    },
+    {
+      "vin": "WVWZZZAUZKW124548",
+      "model": "GOLF",
+      "fra": "UGGERHØJ BRØNDERSLEV",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-06",
+      "track": "moeaAkqG"
+    },
+    {
+      "vin": "WAUZZZ4G0EN189894",
+      "model": "A6",
+      "fra": "FO SLAGELSE",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-10",
+      "track": "yuAQSKms"
     },
     {
       "vin": "TMAJ3815GHJ174377",
@@ -58,6 +42,30 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-06",
       "track": "uEiYWiWU"
+    },
+    {
+      "vin": "SJNFEAJ11U2276514",
+      "model": "QASHQAI",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-10",
+      "track": "ySqeGwok"
+    },
+    {
+      "vin": "WAUZZZ4F6BN035337",
+      "model": "A6",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-06",
+      "track": "GU2CqiUo"
+    },
+    {
+      "vin": "WVGZZZ5NZJW412031",
+      "model": "TIGUAN",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-06",
+      "track": "IgWiWyCa"
     }
   ]
 }

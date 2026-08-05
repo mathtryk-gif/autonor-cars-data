@@ -1,32 +1,8 @@
 {
-  "lastUpdated": "2026-08-04T21:24:14+00:00",
+  "lastUpdated": "2026-08-05T21:23:43+00:00",
   "source": "autologik-mail",
-  "count": 8,
+  "count": 13,
   "cars": [
-    {
-      "vin": "JMBXLGF6WDZ406779",
-      "model": "OUTLANDER",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-05",
-      "track": "28Gu2GOa"
-    },
-    {
-      "vin": "WVWZZZAUZKW124548",
-      "model": "GOLF",
-      "fra": "UGGERHØJ BRØNDERSLEV",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-06",
-      "track": "moeaAkqG"
-    },
-    {
-      "vin": "WAUZZZ4G0EN189894",
-      "model": "A6",
-      "fra": "FO SLAGELSE",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-10",
-      "track": "yuAQSKms"
-    },
     {
       "vin": "TMAJ3815GHJ174377",
       "model": "TUCSON",
@@ -66,6 +42,70 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-06",
       "track": "IgWiWyCa"
+    },
+    {
+      "vin": "SJNFAAJ11U2632719",
+      "model": "QASHQAI",
+      "fra": "NI ÅLBORG",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-07",
+      "track": "4seC4gMa"
+    },
+    {
+      "vin": "VF1RFA00362071541",
+      "model": "GRAND SCENIC",
+      "fra": "UGGERHØJ ÅLBORG",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-07",
+      "track": "mCMW6SeI"
+    },
+    {
+      "vin": "WAUZZZ8K5DA248409",
+      "model": "A4",
+      "fra": "AU FRCIA",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-07",
+      "track": "sCAKUa06"
+    },
+    {
+      "vin": "VF3MJAHWWHL064277",
+      "model": "5008",
+      "fra": "AYVENS TAASTRUP",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-11",
+      "track": "c2IISuG6"
+    },
+    {
+      "vin": "SJNFFAJ11U2623000",
+      "model": "QASHQAI",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-11",
+      "track": "GWq6SoUq"
+    },
+    {
+      "vin": "WAUZZZ4G0EN189894",
+      "model": "A6",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-10",
+      "track": "yuAQSKms"
+    },
+    {
+      "vin": "WBA3K310XFK370566",
+      "model": "3-SERIE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-07",
+      "track": "Ka2oIOG8"
+    },
+    {
+      "vin": "TMBGK7NW1N3030869",
+      "model": "KAMIQ",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-07",
+      "track": "ikqQG0o4"
     }
   ]
 }

@@ -1,71 +1,55 @@
 {
-  "lastUpdated": "2026-08-11T08:04:54+00:00",
+  "lastUpdated": "2026-08-17T07:08:50+00:00",
   "source": "autologik-mail",
-  "count": 8,
+  "count": 6,
   "cars": [
     {
-      "vin": "YV1ZWA8UDK1012942",
-      "model": "V60",
-      "fra": "PEDERSEN & NIELSEN A/S RISSKOV",
+      "vin": "WDC2539051F136547",
+      "model": "GLC",
+      "fra": "NELLEMANN LEASING A/S",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-10",
-      "track": "aYEQUwcm"
+      "leveringsdato": "2026-08-20",
+      "track": "oqMm2sAe"
     },
     {
-      "vin": "VF12R031A58760042",
-      "model": "CAPTUR",
-      "fra": "ME NRSUNDBY",
+      "vin": "W0VJD7E88J4315547",
+      "model": "MOKKA",
+      "fra": "VW HORSENS",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-10",
-      "track": "G2mOwssK"
+      "leveringsdato": "2026-08-18",
+      "track": "i2KmCQ62"
     },
     {
-      "vin": "SJNFDAJ11UZ021204",
-      "model": "QASHQAI",
-      "fra": "TO VIA VALBY",
+      "vin": "TMBJR7NU3J5015207",
+      "model": "KAROQ",
+      "fra": "SK KALUNDBORG",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-12",
-      "track": "GS8kOGge"
+      "leveringsdato": "2026-08-20",
+      "track": "KwiMQy6k"
     },
     {
-      "vin": "VF3MJAHWWHL064277",
-      "model": "5008",
+      "vin": "WVGZZZ1TZKW037090",
+      "model": "TOURAN",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-18",
+      "track": "iScugyQ0"
+    },
+    {
+      "vin": "TMBAJ7NP7H7524992",
+      "model": "SUPERB",
       "fra": "RIN OMLÆSNING",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-11",
-      "track": "c2IISuG6"
+      "leveringsdato": "2026-08-20",
+      "track": "2sgiQ2sA"
     },
     {
-      "vin": "WBA8C5104JK734715",
-      "model": "3-SERIE",
-      "fra": "VAM OMLÆSNING",
+      "vin": "VF3MCYHZRJS388809",
+      "model": "3008",
+      "fra": "RIN OMLÆSNING",
       "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-10",
-      "track": "Mk2Uce00"
-    },
-    {
-      "vin": "WVWZZZAUZKP049036",
-      "model": "GOLF",
-      "fra": "ZODIAK OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-10",
-      "track": "eOSA00ei"
-    },
-    {
-      "vin": "WAUZZZ8K2EA061923",
-      "model": "A4",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-12",
-      "track": "6a2siAOW"
-    },
-    {
-      "vin": "WAUZZZ8K5DA248409",
-      "model": "A4",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-07",
-      "track": "sCAKUa06"
+      "leveringsdato": "2026-08-20",
+      "track": "Ii8ewosw"
     }
   ]
 }

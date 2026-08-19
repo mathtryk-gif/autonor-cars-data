@@ -1,24 +1,8 @@
 {
-  "lastUpdated": "2026-08-18T21:24:57+00:00",
+  "lastUpdated": "2026-08-19T21:25:21+00:00",
   "source": "autologik-mail",
-  "count": 6,
+  "count": 2,
   "cars": [
-    {
-      "vin": "TMBAJ7NP7H7524992",
-      "model": "SUPERB",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-20",
-      "track": "2sgiQ2sA"
-    },
-    {
-      "vin": "VF3MCYHZRJS388809",
-      "model": "3008",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-20",
-      "track": "Ii8ewosw"
-    },
     {
       "vin": "VF3M45GFRJS496730",
       "model": "3008",
@@ -28,28 +12,12 @@
       "track": "GyKekkqq"
     },
     {
-      "vin": "WDD1760431J674555",
-      "model": "A-KLASSE",
-      "fra": "RIN OMLÆSNING",
+      "vin": "VSSZZZKNZKW019204",
+      "model": "TARRACO",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-21",
-      "track": "0uiEoUGQ"
-    },
-    {
-      "vin": "WDC2539051F136547",
-      "model": "GLC",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-20",
-      "track": "oqMm2sAe"
-    },
-    {
-      "vin": "U5YPG812GLL794664",
-      "model": "SPORTAGE",
-      "fra": "RIN OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-21",
-      "track": "846WmOqI"
+      "track": "qsEiOkUa"
     }
   ]
 }

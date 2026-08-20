@@ -1,16 +1,8 @@
 {
-  "lastUpdated": "2026-08-19T21:25:21+00:00",
+  "lastUpdated": "2026-08-20T21:23:22+00:00",
   "source": "autologik-mail",
-  "count": 2,
+  "count": 7,
   "cars": [
-    {
-      "vin": "VF3M45GFRJS496730",
-      "model": "3008",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-19",
-      "track": "GyKekkqq"
-    },
     {
       "vin": "VSSZZZKNZKW019204",
       "model": "TARRACO",
@@ -18,6 +10,54 @@
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-21",
       "track": "qsEiOkUa"
+    },
+    {
+      "vin": "VF3MRHNYWJS246064",
+      "model": "3008",
+      "fra": "TO HORSENS",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "28ik8aEk"
+    },
+    {
+      "vin": "W0L7H9ED8H4261984",
+      "model": "CROSSLAND X",
+      "fra": "KRAFT ERHVERV",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "a0WMS2qU"
+    },
+    {
+      "vin": "U5YPC811CDL240355",
+      "model": "SPORTAGE",
+      "fra": "JØRGEN HANSEN BILER A/S",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "W4W2im4u"
+    },
+    {
+      "vin": "W0LJD7E88H4190763",
+      "model": "MOKKA X",
+      "fra": "BILHUSET JEPSEN",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-27",
+      "track": "icMQgQYq"
+    },
+    {
+      "vin": "U5YH5F19GLL013311",
+      "model": "XCEED",
+      "fra": "STADIL AUTO",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "Uu4eyQoW"
+    },
+    {
+      "vin": "SJNFAAJ11U2422785",
+      "model": "QASHQAI",
+      "fra": "EA HADERSLEV",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "yEqkUQiI"
     }
   ]
 }

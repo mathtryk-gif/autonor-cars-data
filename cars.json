@@ -1,40 +1,8 @@
 {
-  "lastUpdated": "2026-08-20T21:23:22+00:00",
+  "lastUpdated": "2026-08-24T07:10:50+00:00",
   "source": "autologik-mail",
-  "count": 7,
+  "count": 6,
   "cars": [
-    {
-      "vin": "VSSZZZKNZKW019204",
-      "model": "TARRACO",
-      "fra": "VAM OMLÆSNING",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-21",
-      "track": "qsEiOkUa"
-    },
-    {
-      "vin": "VF3MRHNYWJS246064",
-      "model": "3008",
-      "fra": "TO HORSENS",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-25",
-      "track": "28ik8aEk"
-    },
-    {
-      "vin": "W0L7H9ED8H4261984",
-      "model": "CROSSLAND X",
-      "fra": "KRAFT ERHVERV",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-25",
-      "track": "a0WMS2qU"
-    },
-    {
-      "vin": "U5YPC811CDL240355",
-      "model": "SPORTAGE",
-      "fra": "JØRGEN HANSEN BILER A/S",
-      "til": "AUTONOR APS",
-      "leveringsdato": "2026-08-25",
-      "track": "W4W2im4u"
-    },
     {
       "vin": "W0LJD7E88H4190763",
       "model": "MOKKA X",
@@ -52,9 +20,33 @@
       "track": "Uu4eyQoW"
     },
     {
+      "vin": "VF3MRHNYWJS246064",
+      "model": "3008",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "28ik8aEk"
+    },
+    {
+      "vin": "W0L7H9ED8H4261984",
+      "model": "CROSSLAND X",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "a0WMS2qU"
+    },
+    {
+      "vin": "U5YPC811CDL240355",
+      "model": "SPORTAGE",
+      "fra": "VAM OMLÆSNING",
+      "til": "AUTONOR APS",
+      "leveringsdato": "2026-08-25",
+      "track": "W4W2im4u"
+    },
+    {
       "vin": "SJNFAAJ11U2422785",
       "model": "QASHQAI",
-      "fra": "EA HADERSLEV",
+      "fra": "VAM OMLÆSNING",
       "til": "AUTONOR APS",
       "leveringsdato": "2026-08-25",
       "track": "yEqkUQiI"

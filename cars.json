@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T09:32:22+02:00",
+  "lastUpdated": "2026-09-29T09:56:07+02:00",
   "source": "autologik-mail",
   "count": 19,
   "cars": [
@@ -57,8 +57,8 @@
     },
     {
       "vin": "WDD2050041F053687",
-      "model": "MERCEDES-P C-KLASSE",
-      "maerke": "MERCEDES-P",
+      "model": "MERCEDES C-KLASSE",
+      "maerke": "MERCEDES",
       "regnr": "BY16389",
       "bookingnr": "B9726812",
       "fra": "DAL Ringsted omlæsning",
@@ -135,8 +135,8 @@
     },
     {
       "vin": "WVGZZZ5NZHW922420",
-      "model": "VW-P TIGUAN",
-      "maerke": "VW-P",
+      "model": "VW TIGUAN",
+      "maerke": "VW",
       "regnr": "BL21787",
       "bookingnr": "B9730700",
       "fra": "DAL Ringsted omlæsning",
@@ -187,8 +187,8 @@
     },
     {
       "vin": "WDD2462031N039434",
-      "model": "MERCEDES-P B-KLASSE",
-      "maerke": "MERCEDES-P",
+      "model": "MERCEDES B-KLASSE",
+      "maerke": "MERCEDES",
       "regnr": "BZ53411",
       "bookingnr": "B9728712",
       "fra": "Dansk Auto Logik A/S",
@@ -200,8 +200,8 @@
     },
     {
       "vin": "WVGZZZ5NZHW876830",
-      "model": "VW-P TIGUAN",
-      "maerke": "VW-P",
+      "model": "VW TIGUAN",
+      "maerke": "VW",
       "regnr": "DJ67650",
       "bookingnr": "B9730299",
       "fra": "DAL Vamdrup omlæsning",
@@ -213,8 +213,8 @@
     },
     {
       "vin": "WVGZZZ5NZHW877772",
-      "model": "VW-P TIGUAN",
-      "maerke": "VW-P",
+      "model": "VW TIGUAN",
+      "maerke": "VW",
       "regnr": "BJ38017",
       "bookingnr": "B9730317",
       "fra": "DAL Vamdrup omlæsning",

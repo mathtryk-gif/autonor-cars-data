@@ -148,7 +148,8 @@ def parse_excel(xlsx_path: Path) -> list[dict]:
             continue
         seen.add(vin)
 
-        maerke = first_line(get(row, "maerke"))
+        # Autologik skriver fx "VW-P" / "MERCEDES-P" (P = personbil, V = varebil) — suffikset fjernes
+        maerke = re.sub(r"-[PV]$", "", first_line(get(row, "maerke")).strip(), flags=re.IGNORECASE)
         model = first_line(get(row, "model"))
         # Dashboardet viser kun `model` — så vi lægger mærket foran når vi har det
         # ("VOLVO XC40" i stedet for bare "XC40"). Gamle filer havde ikke mærke.

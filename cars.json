@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T21:21:25+00:00",
+  "lastUpdated": "2026-10-03T21:21:21+00:00",
   "source": "autologik-mail",
   "count": 21,
   "cars": [
@@ -80,6 +80,19 @@
       "koerselsdato": "2026-10-05",
       "leveringsdato": "2026-10-05",
       "track": "cSeAYm8q"
+    },
+    {
+      "vin": "SJNFAAJ11U2643958",
+      "model": "NISSAN QASHQAI",
+      "maerke": "NISSAN",
+      "regnr": "CW67913",
+      "bookingnr": "B9742306",
+      "fra": "DAL Vamdrup omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-01",
+      "koerselsdato": "2026-10-05",
+      "leveringsdato": "2026-10-05",
+      "track": "ySGqEkIQ"
     },
     {
       "vin": "SJNFDAJ11U2401544",
@@ -186,19 +199,6 @@
       "track": "2gAaqoQg"
     },
     {
-      "vin": "TMBAH9NP1K7039309",
-      "model": "SKODA SUPERB",
-      "maerke": "SKODA",
-      "regnr": "DJ29032",
-      "bookingnr": "B9744626",
-      "fra": "Dansk Auto Logik A/S",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-02",
-      "koerselsdato": null,
-      "leveringsdato": "2026-10-06",
-      "track": "uyWEyQka"
-    },
-    {
       "vin": "VF1RFD00259174392",
       "model": "RENAULT TALISMAN",
       "maerke": "RENAULT",
@@ -238,6 +238,19 @@
       "track": "so8YM8Ew"
     },
     {
+      "vin": "TMBAH9NP1K7039309",
+      "model": "SKODA SUPERB",
+      "maerke": "SKODA",
+      "regnr": "DJ29032",
+      "bookingnr": "B9744626",
+      "fra": "Dansk Auto Logik A/S",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-02",
+      "koerselsdato": null,
+      "leveringsdato": "2026-10-06",
+      "track": "uyWEyQka"
+    },
+    {
       "vin": "VR7ECYHZRKJ895495",
       "model": "CITROEN BERLINGO",
       "maerke": "CITROEN",
@@ -262,19 +275,6 @@
       "koerselsdato": "2026-10-05",
       "leveringsdato": "2026-10-05",
       "track": "A0YQ0EUM"
-    },
-    {
-      "vin": "SJNFAAJ11U2643958",
-      "model": "NISSAN QASHQAI",
-      "maerke": "NISSAN",
-      "regnr": "CW67913",
-      "bookingnr": "B9742306",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-05",
-      "koerselsdato": "2026-10-05",
-      "leveringsdato": "2026-10-05",
-      "track": "ySGqEkIQ"
     }
   ]
 }

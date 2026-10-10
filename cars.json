@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T21:21:17+00:00",
+  "lastUpdated": "2026-10-10T21:21:11+00:00",
   "source": "autologik-mail",
   "count": 21,
   "cars": [
@@ -43,45 +43,6 @@
       "track": "OegSYUCU"
     },
     {
-      "vin": "VF3MCYHZRJS329013",
-      "model": "PEUGEOT 3008",
-      "maerke": "PEUGEOT",
-      "regnr": "CA12526",
-      "bookingnr": "B9764015",
-      "fra": "Omlæsning sover ude",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-07",
-      "koerselsdato": "2026-10-12",
-      "leveringsdato": "2026-10-12",
-      "track": "MoseIcuU"
-    },
-    {
-      "vin": "VF3MCBHZWHS283867",
-      "model": "PEUGEOT 3008",
-      "maerke": "PEUGEOT",
-      "regnr": "CK75792",
-      "bookingnr": "B9760657",
-      "fra": "SCT Transport",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-07",
-      "koerselsdato": null,
-      "leveringsdato": "2026-10-14",
-      "track": "oqwkykUo"
-    },
-    {
-      "vin": "U5YPH815GHL224273",
-      "model": "KIA SPORTAGE",
-      "maerke": "KIA",
-      "regnr": "BJ35805",
-      "bookingnr": "B9760668",
-      "fra": "Bilhuset Elmer",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-07",
-      "koerselsdato": null,
-      "leveringsdato": "2026-10-19",
-      "track": "UcAccAug"
-    },
-    {
       "vin": "WVWZZZ7NZCV004275",
       "model": "VW SHARAN",
       "maerke": "VW",
@@ -121,56 +82,43 @@
       "track": "myuyieI4"
     },
     {
-      "vin": "SJNFAAJ11U2423444",
-      "model": "NISSAN QASHQAI",
-      "maerke": "NISSAN",
-      "regnr": "CH28867",
-      "bookingnr": "B9768761",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-08",
-      "koerselsdato": null,
-      "leveringsdato": "2026-10-13",
-      "track": "mmM66aew"
-    },
-    {
-      "vin": "VF3MCYHZULS30715",
+      "vin": "VF3MCYHZRJS329013",
       "model": "PEUGEOT 3008",
       "maerke": "PEUGEOT",
-      "regnr": "DR36024",
-      "bookingnr": "B9765018",
+      "regnr": "CA12526",
+      "bookingnr": "B9764015",
       "fra": "Omlæsning sover ude",
       "til": "Autonor ApS",
-      "klardato": "2026-10-08",
+      "klardato": "2026-10-07",
       "koerselsdato": "2026-10-12",
       "leveringsdato": "2026-10-12",
-      "track": "4Yw8YQ4Q"
+      "track": "MoseIcuU"
     },
     {
-      "vin": "MR0GR12G806500653",
-      "model": "TOYOTA HILUX",
-      "maerke": "TOYOTA",
-      "regnr": "XE92799",
-      "bookingnr": "B9769055",
-      "fra": "DAL Vamdrup omlæsning",
+      "vin": "VF3MCBHZWHS283867",
+      "model": "PEUGEOT 3008",
+      "maerke": "PEUGEOT",
+      "regnr": "CK75792",
+      "bookingnr": "B9760657",
+      "fra": "SCT Transport",
       "til": "Autonor ApS",
-      "klardato": "2026-10-08",
+      "klardato": "2026-10-07",
       "koerselsdato": null,
-      "leveringsdato": "2026-10-15",
-      "track": "qQaIIcoy"
+      "leveringsdato": "2026-10-14",
+      "track": "oqwkykUo"
     },
     {
-      "vin": "SJNFAAJ11U2463964",
-      "model": "NISSAN QASHQAI",
-      "maerke": "NISSAN",
-      "regnr": "CL86367",
-      "bookingnr": "B9767033",
-      "fra": "DAL Vamdrup omlæsning",
+      "vin": "U5YPH815GHL224273",
+      "model": "KIA SPORTAGE",
+      "maerke": "KIA",
+      "regnr": "BJ35805",
+      "bookingnr": "B9760668",
+      "fra": "Bilhuset Elmer",
       "til": "Autonor ApS",
-      "klardato": "2026-10-08",
+      "klardato": "2026-10-07",
       "koerselsdato": null,
-      "leveringsdato": "2026-10-13",
-      "track": "Qake6gYS"
+      "leveringsdato": "2026-10-19",
+      "track": "UcAccAug"
     },
     {
       "vin": "VSSZZZ5FZJ6555309",
@@ -251,17 +199,56 @@
       "track": "0weySqE8"
     },
     {
-      "vin": "VSSZZZ5FZK6567837",
-      "model": "SEAT ATECA",
-      "maerke": "SEAT",
-      "regnr": "CL16092",
-      "bookingnr": "B9760680",
-      "fra": "Dansk Auto Logik A/S",
+      "vin": "SJNFAAJ11U2423444",
+      "model": "NISSAN QASHQAI",
+      "maerke": "NISSAN",
+      "regnr": "CH28867",
+      "bookingnr": "B9768761",
+      "fra": "DAL Vamdrup omlæsning",
       "til": "Autonor ApS",
-      "klardato": "2026-10-09",
-      "koerselsdato": "2026-10-11",
+      "klardato": "2026-10-08",
+      "koerselsdato": null,
       "leveringsdato": "2026-10-13",
-      "track": "OSGcwmS8"
+      "track": "mmM66aew"
+    },
+    {
+      "vin": "MR0GR12G806500653",
+      "model": "TOYOTA HILUX",
+      "maerke": "TOYOTA",
+      "regnr": "XE92799",
+      "bookingnr": "B9769055",
+      "fra": "DAL Vamdrup omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-08",
+      "koerselsdato": null,
+      "leveringsdato": "2026-10-15",
+      "track": "qQaIIcoy"
+    },
+    {
+      "vin": "VF3MCYHZULS30715",
+      "model": "PEUGEOT 3008",
+      "maerke": "PEUGEOT",
+      "regnr": "DR36024",
+      "bookingnr": "B9765018",
+      "fra": "Omlæsning sover ude",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-08",
+      "koerselsdato": "2026-10-12",
+      "leveringsdato": "2026-10-12",
+      "track": "4Yw8YQ4Q"
+    },
+    {
+      "vin": "SJNFAAJ11U2463964",
+      "model": "NISSAN QASHQAI",
+      "maerke": "NISSAN",
+      "regnr": "CL86367",
+      "bookingnr": "B9767033",
+      "fra": "DAL Vamdrup omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-08",
+      "koerselsdato": null,
+      "leveringsdato": "2026-10-13",
+      "track": "Qake6gYS"
     },
     {
       "vin": "WVWZZZ3CZHE029243",
@@ -275,6 +262,19 @@
       "koerselsdato": "2026-10-11",
       "leveringsdato": "2026-10-13",
       "track": "KAGCYEmU"
+    },
+    {
+      "vin": "VSSZZZ5FZK6567837",
+      "model": "SEAT ATECA",
+      "maerke": "SEAT",
+      "regnr": "CL16092",
+      "bookingnr": "B9760680",
+      "fra": "Dansk Auto Logik A/S",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-09",
+      "koerselsdato": "2026-10-11",
+      "leveringsdato": "2026-10-13",
+      "track": "OSGcwmS8"
     }
   ]
 }

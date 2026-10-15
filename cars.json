@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-14T21:23:00+00:00",
+  "lastUpdated": "2026-10-15T21:21:13+00:00",
   "source": "autologik-mail",
-  "count": 10,
+  "count": 6,
   "cars": [
     {
       "vin": "U5YPH815GHL224273",
@@ -17,19 +17,6 @@
       "track": "UcAccAug"
     },
     {
-      "vin": "JMZKF6WMA00770021",
-      "model": "MAZDA CX-5",
-      "maerke": "MAZDA",
-      "regnr": "CV34838",
-      "bookingnr": "B9776808",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-12",
-      "koerselsdato": "2026-10-15",
-      "leveringsdato": "2026-10-14",
-      "track": "iewWymyu"
-    },
-    {
       "vin": "VR3FCYHZJKY100080",
       "model": "PEUGEOT 508-SW",
       "maerke": "PEUGEOT",
@@ -38,30 +25,17 @@
       "fra": "DAL Vamdrup omlæsning",
       "til": "Autonor ApS",
       "klardato": "2026-10-12",
-      "koerselsdato": null,
+      "koerselsdato": "2026-10-15",
       "leveringsdato": "2026-10-16",
       "track": "UwAicuCY"
-    },
-    {
-      "vin": "VF3MCYHZRJS270152",
-      "model": "PEUGEOT 3008",
-      "maerke": "PEUGEOT",
-      "regnr": "BZ89008",
-      "bookingnr": "B9775490",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-13",
-      "koerselsdato": null,
-      "leveringsdato": "2026-10-19",
-      "track": "6Emqaq4S"
     },
     {
       "vin": "W0LJD7EMXH4105550",
       "model": "OPEL MOKKA X",
       "maerke": "OPEL",
       "regnr": "BK92599",
-      "bookingnr": "B9781343",
-      "fra": "DAL Ringsted omlæsning",
+      "bookingnr": "B9784458",
+      "fra": "DAL Vamdrup omlæsning",
       "til": "Autonor ApS",
       "klardato": "2026-10-13",
       "koerselsdato": null,
@@ -69,24 +43,11 @@
       "track": "2kGyuwGa"
     },
     {
-      "vin": "VF3MJAHXHJS047369",
-      "model": "PEUGEOT 3008",
-      "maerke": "PEUGEOT",
-      "regnr": "BX64299",
-      "bookingnr": "B9779207",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-13",
-      "koerselsdato": "2026-10-15",
-      "leveringsdato": "2026-10-15",
-      "track": "8UUYiGoy"
-    },
-    {
       "vin": "WBAHU1103H5H05966",
       "model": "BMW X1",
       "maerke": "BMW",
       "regnr": "BN19527",
-      "bookingnr": "B9780678",
+      "bookingnr": "B9784620",
       "fra": "DAL Vamdrup omlæsning",
       "til": "Autonor ApS",
       "klardato": "2026-10-14",
@@ -95,43 +56,30 @@
       "track": "WOAEyaau"
     },
     {
-      "vin": "WDD2130041A050612",
-      "model": "MERCEDES E-KLASSE",
-      "maerke": "MERCEDES",
-      "regnr": "CL57702",
-      "bookingnr": "B9777700",
-      "fra": "Bayern AutoGroup Aalborg A/S",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-14",
-      "koerselsdato": "2026-10-15",
-      "leveringsdato": "2026-10-16",
-      "track": "s0qoWmcO"
-    },
-    {
-      "vin": "WBA4E9109HG793837",
-      "model": "BMW 4-SERIE",
-      "maerke": "BMW",
-      "regnr": "CR34883",
-      "bookingnr": "B9777703",
-      "fra": "Caripo Biler A/S",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-14",
-      "koerselsdato": "2026-10-15",
-      "leveringsdato": "2026-10-16",
-      "track": "ygw0uook"
-    },
-    {
-      "vin": "WDB2110561A973534",
-      "model": "MERCEDES E-KLASSE",
-      "maerke": "MERCEDES",
-      "regnr": "AK78539",
-      "bookingnr": "B9776083",
-      "fra": "Omlæsning sover ude",
+      "vin": "TMBAR9NX3MY058907",
+      "model": "SKODA OCTAVIA",
+      "maerke": "SKODA",
+      "regnr": "CV60025",
+      "bookingnr": "B9784964",
+      "fra": "DAL Vamdrup omlæsning",
       "til": "Autonor ApS",
       "klardato": "2026-10-15",
-      "koerselsdato": "2026-10-15",
-      "leveringsdato": "2026-10-12",
-      "track": "cmmyKMki"
+      "koerselsdato": null,
+      "leveringsdato": "2026-10-19",
+      "track": "Mo2K0wss"
+    },
+    {
+      "vin": "JN1JDAT32U0104399",
+      "model": "NISSAN X-TRAIL",
+      "maerke": "NISSAN",
+      "regnr": "CH83395",
+      "bookingnr": "B9783398",
+      "fra": "P. Sørensens Øster Assels A/S",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-15",
+      "koerselsdato": null,
+      "leveringsdato": "2026-10-19",
+      "track": "Wcmq8MEE"
     }
   ]
 }

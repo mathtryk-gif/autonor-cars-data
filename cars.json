@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T21:21:17+00:00",
+  "lastUpdated": "2026-10-24T21:22:01+00:00",
   "source": "autologik-mail",
   "count": 26,
   "cars": [
@@ -56,32 +56,6 @@
       "track": "cKkasACq"
     },
     {
-      "vin": "VF3MCYHZJKS191039",
-      "model": "PEUGEOT 3008",
-      "maerke": "PEUGEOT",
-      "regnr": "CJ11881",
-      "bookingnr": "B9804026",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-21",
-      "koerselsdato": "2026-10-25",
-      "leveringsdato": "2026-10-23",
-      "track": "SWyiIGq8"
-    },
-    {
-      "vin": "WVGZZZA1ZJV098500",
-      "model": "VW T-ROC",
-      "maerke": "VW",
-      "regnr": "BZ95048",
-      "bookingnr": "B9803207",
-      "fra": "DAL Ringsted omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-21",
-      "koerselsdato": "2026-10-26",
-      "leveringsdato": "2026-10-27",
-      "track": "eEsKOwEw"
-    },
-    {
       "vin": "WVGZZZ5NZHW848605",
       "model": "VW TIGUAN",
       "maerke": "VW",
@@ -106,6 +80,32 @@
       "koerselsdato": "2026-10-26",
       "leveringsdato": "2026-10-27",
       "track": "wgQQoW6A"
+    },
+    {
+      "vin": "VF3MCYHZJKS191039",
+      "model": "PEUGEOT 3008",
+      "maerke": "PEUGEOT",
+      "regnr": "CJ11881",
+      "bookingnr": "B9804026",
+      "fra": "DAL Vamdrup omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-21",
+      "koerselsdato": "2026-10-25",
+      "leveringsdato": "2026-10-23",
+      "track": "SWyiIGq8"
+    },
+    {
+      "vin": "WVGZZZA1ZJV098500",
+      "model": "VW T-ROC",
+      "maerke": "VW",
+      "regnr": "BZ95048",
+      "bookingnr": "B9803207",
+      "fra": "DAL Ringsted omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-21",
+      "koerselsdato": "2026-10-26",
+      "leveringsdato": "2026-10-27",
+      "track": "eEsKOwEw"
     },
     {
       "vin": "SHSRE58507U006456",

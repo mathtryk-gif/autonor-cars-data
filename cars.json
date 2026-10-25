@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-24T21:22:01+00:00",
+  "lastUpdated": "2026-10-25T22:22:15+00:00",
   "source": "autologik-mail",
-  "count": 26,
+  "count": 25,
   "cars": [
     {
       "vin": "WVGZZZ5NZHW409107",
@@ -17,19 +17,6 @@
       "track": "EgAAaAA6"
     },
     {
-      "vin": "TMAJ381ACKJ808448",
-      "model": "HYUNDAI TUCSON",
-      "maerke": "HYUNDAI",
-      "regnr": "CU17089",
-      "bookingnr": "B9803335",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-19",
-      "koerselsdato": "2026-10-25",
-      "leveringsdato": "2026-10-26",
-      "track": "2kkSaIS8"
-    },
-    {
       "vin": "SJNFDAJ11U2188743",
       "model": "NISSAN QASHQAI",
       "maerke": "NISSAN",
@@ -43,6 +30,19 @@
       "track": "8Ee2S468"
     },
     {
+      "vin": "TMAJ381ACKJ808448",
+      "model": "HYUNDAI TUCSON",
+      "maerke": "HYUNDAI",
+      "regnr": "CU17089",
+      "bookingnr": "B9803335",
+      "fra": "DAL Vamdrup omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-19",
+      "koerselsdato": "2026-10-25",
+      "leveringsdato": "2026-10-26",
+      "track": "2kkSaIS8"
+    },
+    {
       "vin": "VF3MCYHZRKL109712",
       "model": "PEUGEOT 5008",
       "maerke": "PEUGEOT",
@@ -54,6 +54,19 @@
       "koerselsdato": "2026-10-26",
       "leveringsdato": "2026-10-26",
       "track": "cKkasACq"
+    },
+    {
+      "vin": "WVGZZZA1ZJV098500",
+      "model": "VW T-ROC",
+      "maerke": "VW",
+      "regnr": "BZ95048",
+      "bookingnr": "B9803207",
+      "fra": "DAL Ringsted omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-21",
+      "koerselsdato": "2026-10-26",
+      "leveringsdato": "2026-10-27",
+      "track": "eEsKOwEw"
     },
     {
       "vin": "WVGZZZ5NZHW848605",
@@ -95,32 +108,6 @@
       "track": "SWyiIGq8"
     },
     {
-      "vin": "WVGZZZA1ZJV098500",
-      "model": "VW T-ROC",
-      "maerke": "VW",
-      "regnr": "BZ95048",
-      "bookingnr": "B9803207",
-      "fra": "DAL Ringsted omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-21",
-      "koerselsdato": "2026-10-26",
-      "leveringsdato": "2026-10-27",
-      "track": "eEsKOwEw"
-    },
-    {
-      "vin": "SHSRE58507U006456",
-      "model": "HONDA CR-V",
-      "maerke": "HONDA",
-      "regnr": "AR18502",
-      "bookingnr": "B9807048",
-      "fra": "DAL Vamdrup omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-22",
-      "koerselsdato": "2026-10-25",
-      "leveringsdato": "2026-10-26",
-      "track": "eCACy8eA"
-    },
-    {
       "vin": "WDD2462081J437710",
       "model": "MERCEDES B-KLASSE",
       "maerke": "MERCEDES",
@@ -132,6 +119,19 @@
       "koerselsdato": null,
       "leveringsdato": "2026-10-26",
       "track": "kKScWIgK"
+    },
+    {
+      "vin": "WBAFW11010DY42428",
+      "model": "BMW 5-SERIE",
+      "maerke": "BMW",
+      "regnr": "AV29796",
+      "bookingnr": "B9805855",
+      "fra": "DAL Ringsted omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-22",
+      "koerselsdato": "2026-10-26",
+      "leveringsdato": "2026-10-28",
+      "track": "8yQ2kmIA"
     },
     {
       "vin": "WVGZZZ5NZJW449971",
@@ -160,30 +160,17 @@
       "track": "agy6YYUe"
     },
     {
-      "vin": "WBAFW11010DY42428",
-      "model": "BMW 5-SERIE",
-      "maerke": "BMW",
-      "regnr": "AV29796",
-      "bookingnr": "B9805855",
-      "fra": "DAL Ringsted omlæsning",
+      "vin": "SHSRE58507U006456",
+      "model": "HONDA CR-V",
+      "maerke": "HONDA",
+      "regnr": "AR18502",
+      "bookingnr": "B9807048",
+      "fra": "DAL Vamdrup omlæsning",
       "til": "Autonor ApS",
       "klardato": "2026-10-22",
-      "koerselsdato": "2026-10-26",
-      "leveringsdato": "2026-10-28",
-      "track": "8yQ2kmIA"
-    },
-    {
-      "vin": "VF3MCYHZRKS308221",
-      "model": "PEUGEOT 5008",
-      "maerke": "PEUGEOT",
-      "regnr": "CS25797",
-      "bookingnr": "B9810926",
-      "fra": "DAL Ringsted omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-23",
-      "koerselsdato": null,
-      "leveringsdato": "2026-10-29",
-      "track": "QguEmWUY"
+      "koerselsdato": "2026-10-25",
+      "leveringsdato": "2026-10-26",
+      "track": "eCACy8eA"
     },
     {
       "vin": "SJNFFAJ11U2588443",
@@ -197,19 +184,6 @@
       "koerselsdato": "2026-10-26",
       "leveringsdato": "2026-10-29",
       "track": "2QSC6Ia4"
-    },
-    {
-      "vin": "JMZDM6W8A00100795",
-      "model": "MAZDA CX-30",
-      "maerke": "MAZDA",
-      "regnr": "DV44985",
-      "bookingnr": "B9807873",
-      "fra": "N.O. Jensen A/S",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-23",
-      "koerselsdato": "2026-10-25",
-      "leveringsdato": "2026-10-27",
-      "track": "wQyGu8au"
     },
     {
       "vin": "TMBJR7NU9LJ008837",
@@ -290,19 +264,6 @@
       "track": "8kkAQggo"
     },
     {
-      "vin": "WVGZZZA1ZJV088571",
-      "model": "VW T-ROC",
-      "maerke": "VW",
-      "regnr": "EB86315",
-      "bookingnr": "B9808068",
-      "fra": "DAL Ringsted omlæsning",
-      "til": "Autonor ApS",
-      "klardato": "2026-10-23",
-      "koerselsdato": "2026-10-26",
-      "leveringsdato": "2026-10-29",
-      "track": "Ae2iycW2"
-    },
-    {
       "vin": "U5YPG815GHL329143",
       "model": "KIA SPORTAGE",
       "maerke": "KIA",
@@ -340,6 +301,32 @@
       "koerselsdato": null,
       "leveringsdato": "2026-10-27",
       "track": "AsyWCIyQ"
+    },
+    {
+      "vin": "WVGZZZA1ZJV088571",
+      "model": "VW T-ROC",
+      "maerke": "VW",
+      "regnr": "EB86315",
+      "bookingnr": "B9808068",
+      "fra": "DAL Ringsted omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-23",
+      "koerselsdato": "2026-10-26",
+      "leveringsdato": "2026-10-29",
+      "track": "Ae2iycW2"
+    },
+    {
+      "vin": "VF3MCYHZRKS308221",
+      "model": "PEUGEOT 5008",
+      "maerke": "PEUGEOT",
+      "regnr": "CS25797",
+      "bookingnr": "B9810926",
+      "fra": "DAL Ringsted omlæsning",
+      "til": "Autonor ApS",
+      "klardato": "2026-10-23",
+      "koerselsdato": null,
+      "leveringsdato": "2026-10-29",
+      "track": "QguEmWUY"
     }
   ]
 }
